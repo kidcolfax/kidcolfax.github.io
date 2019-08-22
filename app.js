@@ -1,21 +1,3 @@
-var isTouch = ('ontouchstart' in window);
-
-function kill(type) {
-    window.document.body.addEventListener(type, function(e) {
-        e.preventDefault();
-        e.stopPropagation();
-        return false;
-    }, true);
-}
-
-if (isTouch) {
-    kill('mousedown');
-    kill('mouseup');
-    kill('click');
-    kill('mousemove');
-}
-
-
 function druidLoad() {
     let data;
     var ourRequest = new XMLHttpRequest();
@@ -277,9 +259,13 @@ function populateDungeons(data) {
                 }
                 newDiv.style.textAlign = 'center';
 
-                let newDivWrap = document.createElement("a");
-                newDivWrap.setAttribute("href", 'https://classic.wowhead.com/item=' + itemID);
 
+                var isTouch = ('ontouchstart' in window);
+                console.log(isTouch);
+                let newDivWrap = document.createElement("a");
+                if (isTouch === false) {
+                    newDivWrap.setAttribute("href", 'https://classic.wowhead.com/item=' + itemID);
+                }
                 newDivWrap.appendChild(newDiv);
                 sourceDiv.appendChild(newDivWrap);
             }
