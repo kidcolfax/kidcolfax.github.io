@@ -137,6 +137,8 @@ body {
     display: inline-block;
     margin: 1.5em;
     cursor: pointer;
+    min-width: 100px;
+    min-height: 100px;
 }
 
 .classLogo {
