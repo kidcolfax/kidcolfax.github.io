@@ -192,7 +192,7 @@ function populateDungeons(data) {
         let cardHeader = document.createElement('div');
         cardHeader.classList += 'card-header';
         cardHeader.id = "heading" + i;
-        let h2 = document.createElement('h2');
+        let h2 = document.createElement('h1');
         h2.classList += 'mb-0';
         let button = document.createElement('button');
         button.classList += 'btn btn-link';

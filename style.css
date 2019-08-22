@@ -47,6 +47,7 @@ body {
     border-left: 10px solid #c18400;
     border-right: 10px solid #c18400;
     border-bottom: 10px solid #875c00;
+    border-top: 10px solid #875c00;
 }
 
 .collapse.show {
@@ -137,8 +138,6 @@ body {
     display: inline-block;
     margin: 1.5em;
     cursor: pointer;
-    min-width: 100px;
-    min-height: 100px;
 }
 
 .classLogo {
@@ -257,4 +256,32 @@ body {
     -webkit-box-shadow: 0 0 20px #C79C6E;
     -moz-box-shadow: 0 0 20px#C79C6E;
     box-shadow: 0 0 20px #C79C6E;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    .classLogo {
+        min-width: 200px;
+        min-height: 200px;
+    }
+    #chooseClassText {
+        font-size: 4em;
+    }
+    .classLogo:hover {
+        transform: scale(1.2);
+    }
+    #newsBox {
+        font-size: 2em;
+        width: 90%;
+        margin-left: 5%;
+        margin-top: 3%;
+    }
+    #newsTitle {
+        font-size: 4em;
+        margin-top: 10%;
+    }
+    #accordionExample {
+        font-size: 2em;
+        width: 90%;
+        margin-left: 5%;
+    }
 }
