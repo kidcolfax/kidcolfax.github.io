@@ -1,0 +1,257 @@
+body {
+    background-color: black !important;
+}
+
+.tooltip-inner {
+    min-width: 100px;
+    max-width: 100%;
+}
+
+#accordionExample {
+    width: 60vw;
+    margin-left: 20vw;
+    border: 20px solid white;
+    border-radius: 10px;
+    position: absolute;
+    /* margin-top: 30vh; */
+    margin-bottom: 5em;
+    display: none;
+}
+
+.newsText {
+    line-height: 1.2em;
+    font-family: 'Roboto', sans-serif;
+}
+
+#newsTitle {
+    font-size: 2em;
+    font-weight: bold;
+    display: block;
+    letter-spacing: .25em;
+    text-align: center;
+    color: white;
+    /* margin-bottom: 1em; */
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-header {
+    background-color: white !important;
+    padding: 0;
+    /* font-weight: bold; */
+    text-align: center;
+    border: 3px solid black;
+}
+
+.card-body {
+    background-color: black;
+    border-left: 10px solid #c18400;
+    border-right: 10px solid #c18400;
+    border-bottom: 10px solid #875c00;
+}
+
+.collapse.show {
+    background-color: purple;
+}
+
+.sourceBar {
+    margin-top: 10px;
+    border: 2px solid gray;
+    /* border-radius: 10px; */
+    /* padding: 10px; */
+    color: black;
+    background: #f1f1f1;
+    text-align: center;
+    padding: 5px;
+}
+
+.sourceTitle {
+    /* font-weight: bold; */
+    background-color: lightgray;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.card-header:first-child {
+    border-radius: 0;
+}
+
+.btn {
+    font-size: 1rem;
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+    color: black;
+    border-radius: 0;
+    border: 0;
+}
+
+.card-header .btn[aria-expanded="true"] {
+    color: black;
+    /* background-color: #ecdab2; */
+}
+
+#headerLogo {
+    /* position: fixed; */
+    width: 444px;
+    z-index: 10000;
+    margin-top: 3em;
+    height: 313px;
+    background-image: url("./images/full.png");
+    background-size: cover;
+    z-index: 1000;
+    margin: 0 auto;
+}
+
+#newsBox {
+    width: 60vw;
+    border-radius: 10px;
+    /* position: absolute; */
+    color: white;
+    background: black;
+    padding: 15px;
+    margin: 0 0 1em 0;
+    margin-left: 20vw;
+    -webkit-box-shadow: 0 0 100px #ffcc00;
+    -moz-box-shadow: 0 0 100px #ffcc00;
+    box-shadow: 0 0 100px #ffcc00;
+}
+
+#chooseClassText {
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    letter-spacing: .25em;
+    font-family: 'Roboto', sans-serif;
+}
+
+#classBar {
+    width: 100vw;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
+
+.classLogo {
+    width: 5em;
+    height: 5em;
+    display: inline-block;
+    margin: .4em;
+    cursor: pointer;
+}
+
+.classLogo {
+    transition: all .05s ease-in-out;
+}
+
+.classLogo:hover {
+    transform: scale(1.35);
+}
+
+#twitchLogo {
+    background-image: url(./images/druid.png);
+    background-size: contain;
+}
+
+#twitchLogo:hover {
+    -webkit-box-shadow: 0 0 20px #6441a5;
+    -moz-box-shadow: 0 0 20px #6441a5;
+    box-shadow: 0 0 20px #6441a5;
+}
+
+#druidLogo {
+    background-image: url(./images/druid.png);
+    background-size: contain;
+}
+
+#druidLogo:hover {
+    -webkit-box-shadow: 0 0 20px #FF7D0A;
+    -moz-box-shadow: 0 0 20px #FF7D0A;
+    box-shadow: 0 0 20px #FF7D0A;
+}
+
+#hunterLogo {
+    background-image: url(./images/hunter.png);
+    background-size: contain;
+}
+
+#hunterLogo:hover {
+    -webkit-box-shadow: 0 0 20px #ABD473;
+    -moz-box-shadow: 0 0 20px #ABD473;
+    box-shadow: 0 0 20px #ABD473;
+}
+
+#mageLogo {
+    background-image: url(./images/mage.png);
+    background-size: contain;
+}
+
+#mageLogo:hover {
+    -webkit-box-shadow: 0 0 20px #69CCF0;
+    -moz-box-shadow: 0 0 20px #69CCF0;
+    box-shadow: 0 0 20px #69CCF0;
+}
+
+#paladinLogo {
+    background-image: url(./images/paladin.png);
+    background-size: contain;
+}
+
+#paladinLogo:hover {
+    -webkit-box-shadow: 0 0 20px #F58CBA;
+    -moz-box-shadow: 0 0 20px #F58CBA;
+    box-shadow: 0 0 20px #F58CBA;
+}
+
+#priestLogo {
+    background-image: url(./images/priest.png);
+    background-size: contain;
+}
+
+#priestLogo:hover {
+    -webkit-box-shadow: 0 0 20px #FFFFFF;
+    -moz-box-shadow: 0 0 20px #FFFFFF;
+    box-shadow: 0 0 20px #FFFFFF;
+}
+
+#rogueLogo {
+    background-image: url(./images/rogue.png);
+    background-size: contain;
+}
+
+#rogueLogo:hover {
+    -webkit-box-shadow: 0 0 20px #FFF569;
+    -moz-box-shadow: 0 0 20px #FFF569;
+    box-shadow: 0 0 20px #FFF569;
+}
+
+#shamanLogo {
+    background-image: url(./images/shaman.png);
+    background-size: contain;
+}
+
+#shamanLogo:hover {
+    -webkit-box-shadow: 0 0 20px #F58CBA;
+    -moz-box-shadow: 0 0 20px #F58CBA;
+    box-shadow: 0 0 20px #F58CBA;
+}
+
+#warlockLogo {
+    background-image: url(./images/warlock.png);
+    background-size: contain;
+}
+
+#warlockLogo:hover {
+    -webkit-box-shadow: 0 0 20px #9482C9;
+    -moz-box-shadow: 0 0 20px#9482C9;
+    box-shadow: 0 0 20px #9482C9;
+}
+
+#warriorLogo {
+    background-image: url(./images/warrior.png);
+    background-size: contain;
+}
+
+#warriorLogo:hover {
+    -webkit-box-shadow: 0 0 20px #C79C6E;
+    -moz-box-shadow: 0 0 20px#C79C6E;
+    box-shadow: 0 0 20px #C79C6E;
+}

@@ -1,0 +1,2741 @@
+[{
+        "dungeonName": "The Ragefire Chasm (13-18)",
+        "sourceList": [{
+                "sourceName": "Jergosh the Invoker (16)",
+                "itemList": [{
+                    "itemName": "Robe of Evocation(13) - Cloth: Chest (36.39%)",
+                    "itemID": "?witem=14150",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "Taragaman the Hungerer (16)",
+                "itemList": [{
+                    "itemName": "Crystalline Cuffs(13) - Cloth: Wrist (33.90%)",
+                    "itemID": "?witem=14148",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=5730\" class=\"wowgreen\" target=\"_blank\">Quest(H): Hidden Enemies (16)</a>",
+                "itemList": [{
+                    "itemName": "Staff of Orgrimmar - Staff: Two-Hand",
+                    "itemID": "?witem=15444",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=5725\" class=\"wowgreen\" target=\"_blank\">Quest(H): The Power to Destroy (16)</a>",
+                "itemList": [{
+                    "itemName": "Ghastly Trousers - Cloth: Legs",
+                    "itemID": "?witem=15449",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=5724\" class=\"wowgreen\" target=\"_blank\">Quest(H): Returning the Lost Satchel (16)</a>",
+                "itemList": [{
+                    "itemName": "Featherbead Bracers - Cloth: Wrist",
+                    "itemID": "?witem=15452",
+                    "class": "wowgreen"
+                }]
+            }
+        ]
+    },
+    {
+        "dungeonName": "The Deadmines (15-22)",
+        "sourceList": [{
+                "sourceName": "Brainwashed Noble (18-Rare)",
+                "itemList": [{
+                        "itemName": "Girdle of Nobility(13) - Cloth: Waist (64.38%)",
+                        "itemID": "?witem=5967",
+                        "class": "wowgreen"
+                    },
+                    {
+                        "itemName": "Staff of Nobles(13) - Staff: Two-Hand (26.66%)",
+                        "itemID": "?witem=3902",
+                        "class": "wowgreen"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Marisa du'Paige (18-Rare)",
+                "itemList": [{
+                        "itemName": "Walking Boots(13) - Cloth: Feet (69.05%)",
+                        "itemID": "?witem=4660",
+                        "class": "wowgreen"
+                    },
+                    {
+                        "itemName": "Noble's Robe(13) - Cloth: Chest (22.83%)",
+                        "itemID": "?witem=3019",
+                        "class": "wowgreen"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Miner Johnson (19-Rare)",
+                "itemList": [{
+                    "itemName": "Miner's Cape(14) - Cloth: Back (54.90%)",
+                    "itemID": "?witem=5444",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "Captain Greenskin (20)",
+                "itemList": [{
+                    "itemName": "Emberstone Staff(18) - Staff: Two-Hand (34.09%)",
+                    "itemID": "?witem=5201",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Cookie (20)",
+                "itemList": [{
+                    "itemName": "Cookie's Stirring Rod(17) - Wand: Ranged (30.93%)",
+                    "itemID": "?witem=5198",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Gilnid (20)",
+                "itemList": [{
+                    "itemName": "Lavishly Jeweled Ring(17) - Miscellaneous: Finger (34.98%)",
+                    "itemID": "?witem=1156",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Sneed (20)",
+                "itemList": [{
+                    "itemName": "Gold-flecked Gloves(17) - Cloth: Hands (62.35%)",
+                    "itemID": "?witem=5195",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "Edwin VanCleef (21)",
+                "itemList": [{
+                    "itemName": "Corsair's Overshirt(19) - Cloth: Chest (22.86%)",
+                    "itemID": "?witem=5202",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=2040\" class=\"wowgreen\" target=\"_blank\">Quest(A): Underground Assault (20)</a>",
+                "itemList": [{
+                    "itemName": "Sable Wand - Wand: Ranged",
+                    "itemID": "?witem=7607",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=166\" class=\"wowblue\" target=\"_blank\">Quest(A): The Defias Brotherhood (22)</a>",
+                "itemList": [{
+                    "itemName": "Staff of Westfall - Staff: Two-Hand",
+                    "itemID": "?witem=2042",
+                    "class": "wowblue"
+                }]
+            }
+        ]
+    },
+    {
+        "dungeonName": "The Wailing Caverns (17-24)",
+        "sourceList": [{
+                "sourceName": "Deviate Faerie Dragon (20-Rare)",
+                "itemList": [{
+                        "itemName": "Feyscale Cloak(15) - Cloth: Back (37.73%)",
+                        "itemID": "?witem=6632",
+                        "class": "wowgreen"
+                    },
+                    {
+                        "itemName": "Firebelcher(15) - Wand: Ranged (39.70%)",
+                        "itemID": "?witem=5243",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Lord Cobrahn (20)",
+                "itemList": [{
+                    "itemName": "Robe of the Moccasin(17) - Cloth: Chest (51.70%)",
+                    "itemID": "?witem=6465",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "Lord Serpentis (21)",
+                "itemList": [{
+                    "itemName": "Robe of the Moccasin(17) - Cloth: Chest (51.70%)",
+                    "itemID": "?witem=6465",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "Verdan the Everliving (21)",
+                "itemList": [{
+                        "itemName": "Sporid Cape(18) - Cloth: Back (16.65%)",
+                        "itemID": "?witem=6629",
+                        "class": "wowgreen"
+                    },
+                    {
+                        "itemName": "Living Root(20) - Staff: Two-Hand (34.51%)",
+                        "itemID": "?witem=6631",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Mutanus the Devourer (22)",
+                "itemList": [{
+                        "itemName": "Slime-encrusted Pads(22) - Cloth: Shoulders (22.97%)",
+                        "itemID": "?witem=6461",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Deep Fathom Ring(21) - Miscellaneous: Finger (21.95%)",
+                        "itemID": "?witem=6463",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=962\" class=\"wowgreen\" target=\"_blank\">Quest(H): Serpentbloom (18)</a>",
+                "itemList": [{
+                    "itemName": "Apothecary Gloves - Cloth: Hands",
+                    "itemID": "?witem=10919",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=1487\" class=\"wowgreen\" target=\"_blank\">Quest(B): Deviate Eradication (21)</a>",
+                "itemList": [{
+                    "itemName": "Apothecary Gloves - Cloth: Hands",
+                    "itemID": "?witem=10919",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=3369\" class=\"wowgreen\" target=\"_blank\">Quest(H): In Nightmares (25)</a>",
+                "itemList": [{
+                    "itemName": "Talbar Mantle - Cloth: Shoulders",
+                    "itemID": "?witem=10657",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=914\" class=\"wowblue\" target=\"_blank\">Quest(H): Leaders of the Fang (22)</a>",
+                "itemList": [{
+                    "itemName": "Crescent Staff - Staff: Two-Hand",
+                    "itemID": "?witem=6505",
+                    "class": "wowblue"
+                }]
+            }
+        ]
+    },
+    {
+        "dungeonName": "Shadowfang Keep (20-26)",
+        "sourceList": [{
+                "sourceName": "Razorclaw the Butcher (22)",
+                "itemList": [{
+                    "itemName": "Bloody Apron(18) - Cloth: Chest (39.46%)",
+                    "itemID": "?witem=6226",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "Odo the Blindwatcher (24)",
+                "itemList": [{
+                    "itemName": "Odo's Ley Staff(21) - Staff: Two-Hand (29.96%)",
+                    "itemID": "?witem=6318",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Wolf Master Nandos (25)",
+                "itemList": [{
+                    "itemName": "Feline Mantle(23) - Cloth: Shoulders (48.60%)",
+                    "itemID": "?witem=3748",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Archmage Arugal (26)",
+                "itemList": [{
+                        "itemName": "Belt of Arugal(24) - Cloth: Waist (30.50%)",
+                        "itemID": "?witem=6392",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Robes of Arugal(24) - Cloth: Chest (30.45%)",
+                        "itemID": "?witem=6324",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=1098\" class=\"wowgreen\" target=\"_blank\">Quest(H): Deathstalkers in Shadowfang (25)</a>",
+                "itemList": [{
+                    "itemName": "Ghostly Mantle - Cloth: Shoulders",
+                    "itemID": "?witem=3324",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "Rare Zone Drops  (Various SFK Mobs)",
+                "itemList": [{
+                        "itemName": "Witching Stave(17) - Staff: Two-Hand (0.02%)",
+                        "itemID": "?witem=1484",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Necrology Robes(20) - Cloth: Chest (0.01%)",
+                        "itemID": "?witem=2292",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Mindthrust Bracers(17) - Cloth: Wrist (0.02%)",
+                        "itemID": "?witem=1974",
+                        "class": "wowblue"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dungeonName": "Blackfathom Depths (22-28)",
+        "sourceList": [{
+                "sourceName": "Ghamoo-ra (25)",
+                "itemList": [{
+                    "itemName": "Ghamoo-ra's Bind(20) - Cloth: Waist (45.82%)",
+                    "itemID": "?witem=6908",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "Twilight Lord Kelris (27)",
+                "itemList": [{
+                        "itemName": "Gaze Dreamer Pants(23) - Cloth: Legs (31.86%)",
+                        "itemID": "?witem=6903",
+                        "class": "wowgreen"
+                    },
+                    {
+                        "itemName": "Rod of the Sleepwalker(24) - Staff: Two-Hand (45.60%)",
+                        "itemID": "?witem=1155",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Aku'mai (28)",
+                "itemList": [{
+                    "itemName": "Leech Pants(26) - Cloth: Legs (29.73%)",
+                    "itemID": "?witem=6910",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=971\" class=\"wowgreen\" target=\"_blank\">Quest(A): Knowledge in the Deeps (23)</a>",
+                "itemList": [{
+                    "itemName": "Sustaining Ring - Miscellaneous: Finger",
+                    "itemID": "?witem=6743",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=1199\" class=\"wowgreen\" target=\"_blank\">Quest(A): Twilight Falls (25)</a>",
+                "itemList": [{
+                    "itemName": "Nimbus Boots - Cloth: Feet",
+                    "itemID": "?witem=6998",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=6565\" class=\"wowgreen\" target=\"_blank\">Quest(H): Allegiance to the Old Gods (26)</a>",
+                "itemList": [{
+                    "itemName": "Chestnut Mantle - Cloth: Shoulders",
+                    "itemID": "?witem=17695",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=1200\" class=\"wowblue\" target=\"_blank\">Quest(A): Blackfathom Villainy (27)</a>",
+                "itemList": [{
+                    "itemName": "Gravestone Scepter - Wand: Ranged",
+                    "itemID": "?witem=7001",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=909\" class=\"wowblue\" target=\"_blank\">Quest(H): Baron Aquanis (30)</a>",
+                "itemList": [{
+                    "itemName": "Witch's Finger - Miscellaneous: Off-Hand",
+                    "itemID": "?witem=16887",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Rare Zone Drops  (Various BFD Mobs)",
+                "itemList": [{
+                        "itemName": "Staff of the Friar(19) - Staff: Two-Hand (0.02%)",
+                        "itemID": "?witem=3415",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Crested Scepter(22) - Mace: Main Hand (0.02%)",
+                        "itemID": "?witem=3414",
+                        "class": "wowblue"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dungeonName": "Razorfen Kraul (29-34)",
+        "sourceList": [{
+                "sourceName": "Death Speaker Jargba (30)",
+                "itemList": [{
+                        "itemName": "Death Speaker Robes(26) - Cloth: Chest (40.49%)",
+                        "itemID": "?witem=6682",
+                        "class": "wowgreen"
+                    },
+                    {
+                        "itemName": "Death Speaker Mantle(25) - Cloth: Shoulders (40.42%)",
+                        "itemID": "?witem=6685",
+                        "class": "wowgreen"
+                    },
+                    {
+                        "itemName": "Death Speaker Scepter(28) - Mace: Main Hand (7.77%)",
+                        "itemID": "?witem=2816",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Blind Hunter (32-Rare)",
+                "itemList": [{
+                        "itemName": "Stygian Bone Amulet(27) - Miscellaneous: Neck (22.17%)",
+                        "itemID": "?witem=6695",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Batwing Mantle(27) - Cloth: Shoulders (27.71%)",
+                        "itemID": "?witem=6697",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Earthcaller Halmgar (32-Rare)",
+                "itemList": [{
+                    "itemName": "Wind Spirit Staff(27) - Staff: Two-Hand (42.54%)",
+                    "itemID": "?witem=6689",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Charlga Razorflank (33)",
+                "itemList": [{
+                    "itemName": "Agamaggan's Clutch(31) - Miscellaneous: Finger (32.14%)",
+                    "itemID": "?witem=6693",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=1144\" class=\"wowgreen\" target=\"_blank\">Quest(B): Willix the Importer (30)</a>",
+                "itemList": [{
+                    "itemName": "Snake Hoop - Miscellaneous: Finger",
+                    "itemID": "?witem=6750",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "Quest (34): ;;;<a href=\"https://classic.wowhead.com/quest=1102\" class=\"wowblue\" target=\"_blank\">Horde: A Vengeful Fate</a>\n\t\t\t ;;;<a href=\"https://classic.wowhead.com/quest=1101\" class=\"wowblue\" target=\"_blank\">Alliance: The Crone of the Kraul</a>",
+                "itemList": [{
+                    "itemName": "Berylline Pads - Cloth: Shoulders",
+                    "itemID": "?witem=4197",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Rare Zone Drops  (Various RFK Mobs)",
+                "itemList": [{
+                        "itemName": "Plains Ring(24) - Miscellaneous: Finger (0.02%)",
+                        "itemID": "?witem=2039",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Staff of the Shade(22) - Staff: Two-Hand (0.02%)",
+                        "itemID": "?witem=2549",
+                        "class": "wowblue"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dungeonName": "Gnomeregan (30-35)",
+        "sourceList": [{
+                "sourceName": "•Viscous Fallout (30)",
+                "itemList": [{
+                        "itemName": "Hydrocane(27) - Staff: Two-Hand (18.24%)",
+                        "itemID": "?witem=9452",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Acidic Walkers(27) - Cloth: Feet (54.04%)",
+                        "itemID": "?witem=9454",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Electrocutioner 6000 (32)",
+                "itemList": [{
+                    "itemName": "Electrocutioner Lagnut(29) - Miscellaneous: Finger (28.43%)",
+                    "itemID": "?witem=9447",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Mekgineer Thermaplugg (34)",
+                "itemList": [{
+                        "itemName": "Electromagnetic Gigaflux Reactivator(32) - Cloth: Head (7.66%)",
+                        "itemID": "?witem=9492",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Charged Gear(32) - Miscellaneous: Finger (28.49%)",
+                        "itemID": "?witem=9461",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=2930\" class=\"wowgreen\" target=\"_blank\">Quest(A): Data Rescue (30)</a>",
+                "itemList": [{
+                    "itemName": "Repairman's Cape - Cloth: Back",
+                    "itemID": "?witem=9605",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=2928\" class=\"wowgreen\" target=\"_blank\">Quest(A): Gyrodrillmatic Excavationators (30)</a>",
+                "itemList": [{
+                    "itemName": "Shilly Mitts - Cloth: Hands",
+                    "itemID": "?witem=9609",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=2948\" class=\"wowgreen\" target=\"_blank\">Quest(A): Gnome Improvement (35)</a>",
+                "itemList": [{
+                    "itemName": "Brilliant Gold Ring - Miscellaneous: Finger",
+                    "itemID": "?witem=9362",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "Quest (35): ;;;<a href=\"https://classic.wowhead.com/quest=2841\" class=\"wowblue\" target=\"_blank\">Horde: Rig Wars</a>\n\t\t\t ;;;<a href=\"https://classic.wowhead.com/quest=2929\" class=\"wowblue\" target=\"_blank\">Alliance: The Grand Betrayal</a>",
+                "itemList": [{
+                    "itemName": "Civinad Robes - Cloth: Chest",
+                    "itemID": "?witem=9623",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Rare Zone Drops  (Various Gnomer Mobs)",
+                "itemList": [{
+                        "itemName": "Mechbuilder's Overalls(26) - Cloth: Chest (0.03%)",
+                        "itemID": "?witem=9508",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Hotshot Pilot's Gloves(27) - Cloth: Hands (0.02%)",
+                        "itemID": "?witem=9491",
+                        "class": "wowblue"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dungeonName": "Scarlet Monestary (38-42)",
+        "sourceList": [{
+                "sourceName": "Azshir the Sleepless (33-Rare)",
+                "itemList": [{
+                        "itemName": "Necrotic Wand(30) - Wand: Ranged (30.71%)",
+                        "itemID": "?witem=7708",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Ghostshard Talisman(30) - Miscellaneous: Neck (32.65%)",
+                        "itemID": "?witem=7731",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Fallen Champion (33-Rare)",
+                "itemList": [{
+                    "itemName": "Embalmed Shroud(30) - Cloth: Head (38.56%)",
+                    "itemID": "?witem=7691",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Bloodmage Thalnos (34)",
+                "itemList": [{
+                        "itemName": "Bloodmage Mantle(30) - Cloth: Shoulders (48.51%)",
+                        "itemID": "?witem=7684",
+                        "class": "wowgreen"
+                    },
+                    {
+                        "itemName": "Orb of the Forgotten Seer(33) - Miscellaneous: Off-Hand (47.04%)",
+                        "itemID": "?witem=7685",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Arcanist Doan (37)",
+                "itemList": [{
+                        "itemName": "Robe of Doan(33) - Cloth: Chest (42.84%)",
+                        "itemID": "?witem=7711",
+                        "class": "wowgreen"
+                    },
+                    {
+                        "itemName": "Mantle of Doan(33) - Cloth: Shoulders (41.97%)",
+                        "itemID": "?witem=7712",
+                        "class": "wowgreen"
+                    },
+                    {
+                        "itemName": "Hypnotic Blade(34) - Dagger: One-Hand (39.91%)",
+                        "itemID": "?witem=7714",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Illusionary Rod(34) - Staff: Two-Hand (38.43%)",
+                        "itemID": "?witem=7713",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "High Inquisitor Fairbanks (40)",
+                "itemList": [{
+                    "itemName": "Inquisitor's Shawl(36) - Cloth: Shoulders (15.92%)",
+                    "itemID": "?witem=19507",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "High Inquisitor Whitemane (42)",
+                "itemList": [{
+                        "itemName": "Whitemane's Chapeau(39) - Cloth: Head (34.02%)",
+                        "itemID": "?witem=7720",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Hand of Righteousness(39) - Mace: Main Hand (18.33%)",
+                        "itemID": "?witem=7721",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Triune Amulet(39) - Miscellaneous: Neck (33.23%)",
+                        "itemID": "?witem=7722",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=1051\" class=\"wowgreen\" target=\"_blank\">Quest(H): Vorrel's Revenge (33)</a>",
+                "itemList": [{
+                    "itemName": "Mantle of Woe - Cloth: Shoulders",
+                    "itemID": "?witem=7750",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=1394\" class=\"wowgreen\" target=\"_blank\">Quest(H): Final Passage (36)</a>",
+                "itemList": [{
+                    "itemName": "Dancing Flame - Wand: Ranged",
+                    "itemID": "?witem=6806",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=1049\" class=\"wowgreen\" target=\"_blank\">Quest(H): Compendium of the Fallen (38)</a>",
+                "itemList": [{
+                    "itemName": "Omega Orb - Miscellaneous: Off-Hand",
+                    "itemID": "?witem=7749",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=1050\" class=\"wowgreen\" target=\"_blank\">Quest(A): Mythology of the Titans (38)</a>",
+                "itemList": [{
+                    "itemName": "Explorers' League Commendation - Miscellaneous: Neck",
+                    "itemID": "?witem=7746",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=1048\" class=\"wowblue\" target=\"_blank\">Quest(H): Into The Monastery (40)</a>",
+                "itemList": [{
+                        "itemName": "Prophetic Cane - Miscellaneous: Off-Hand",
+                        "itemID": "?witem=6803",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Dragon's Blood Necklace - Miscellaneous: Neck",
+                        "itemID": "?witem=10711",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=1048\" class=\"wowblue\" target=\"_blank\">Quest(A): In the Name of the Light (40)</a>",
+                "itemList": [{
+                    "itemName": "Orb of Lorica - Miscellaneous: Off-Hand",
+                    "itemID": "?witem=11262",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Rare Zone Drops  (Various SM Mobs)",
+                "itemList": [{
+                        "itemName": "Swampchill Fetish(33) - Miscellaneous: Off-Hand",
+                        "itemID": "?witem=1992",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Windweaver Staff(32) - Staff: Two-Hand (0.01%)",
+                        "itemID": "?witem=7757",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Blighted Leggings(30) - Cloth: Legs (31.29%)",
+                        "itemID": "?witem=7709",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Beguiler Robes(29) - Cloth: Chest (0.01%)",
+                        "itemID": "?witem=7728",
+                        "class": "wowblue"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dungeonName": "Razorfen Downs (38-42)",
+        "sourceList": [{
+                "sourceName": "Mordresh Fire Eye (39)",
+                "itemList": [{
+                        "itemName": "Deathmage Sash(36) - Cloth: Waist (27.95%)",
+                        "itemID": "?witem=10771",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Glowing Eye of Mordresh(36) - Miscellaneous: Neck (29.10%)",
+                        "itemID": "?witem=10769",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Mordresh's Lifeless Skull(36) - Miscellaneous: Off-Hand (29.59%)",
+                        "itemID": "?witem=10770",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Tuten'kash (40)",
+                "itemList": [{
+                    "itemName": "Silky Spider Cape(35) - Cloth: Back (28.69%)",
+                    "itemID": "?witem=10776",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Amnennar the Coldbringer (41)",
+                "itemList": [{
+                    "itemName": "Robes of the Lich(39) - Cloth: Chest (29.56%)",
+                    "itemID": "?witem=10762",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Quest (42): ;;;<a href=\"https://classic.wowhead.com/quest=3341\" class=\"wowblue\" target=\"_blank\">Horde: Bring the End</a>\n\n\t\t\t ;;;<a href=\"https://classic.wowhead.com/quest=3636\" class=\"wowblue\" target=\"_blank\">Alliance: Bring the Light</a>",
+                "itemList": [{
+                    "itemName": "Amberglow Talisman - Miscellaneous: Neck",
+                    "itemID": "?witem=10824",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Rare Zone Drops  (Various RFD Mobs)",
+                "itemList": [{
+                        "itemName": "Corpseshroud(35) - Cloth: Head (0.02%)",
+                        "itemID": "?witem=10574",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Death's Head Vestment(35) - Cloth: Chest (0.02%)",
+                        "itemID": "?witem=10581",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Thoughtcast Boots(33) - Cloth: Feet (0.02%)",
+                        "itemID": "?witem=10578",
+                        "class": "wowblue"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dungeonName": "Uldaman (36-45)",
+        "sourceList": [{
+                "sourceName": "Revelosh (40)",
+                "itemList": [{
+                    "itemName": "Revelosh's Gloves(35) - Cloth: Hands (20.08%)",
+                    "itemID": "?witem=9390",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "Grimlok (45)",
+                "itemList": [{
+                    "itemName": "Grimlok's Tribal Vestments(42) - Cloth: Chest (36.49%)",
+                    "itemID": "?witem=9415",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Ironaya (B)",
+                "itemList": [{
+                    "itemName": "Stoneweaver Leggings(35) - Cloth: Legs (31.04%)",
+                    "itemID": "?witem=9407",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Archaedas (B)",
+                "itemList": [{
+                    "itemName": "Archaedic Stone(42) - Miscellaneous: Finger (51.98%)",
+                    "itemID": "?witem=11118",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=2418\" class=\"wowgreen\" target=\"_blank\">Quest(B): Power Stones (36)</a>",
+                "itemList": [{
+                    "itemName": "Everlast Boots - Cloth: Feet",
+                    "itemID": "?witem=10359",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=2240\" class=\"wowgreen\" target=\"_blank\">Quest(A): The Hidden Chamber (40)</a>",
+                "itemList": [{
+                    "itemName": "Explorer's League Lodestar - Miscellaneous: Off-Hand",
+                    "itemID": "?witem=9627",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=2361\" class=\"wowblue\" target=\"_blank\">Quest(A/H): Restoring the Necklace (44)</a>",
+                "itemList": [{
+                        "itemName": "Talvash's Enhancing Necklace - Miscellaneous: Neck",
+                        "itemID": "?witem=7673",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Jarkal's Enhancing Necklace - Miscellaneous: Neck",
+                        "itemID": "?witem=7888",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Rare Zone Drops  (Various Uld Mobs)",
+                "itemList": [{
+                        "itemName": "Miner's Hat of the Deep(39) - Cloth: Head (0.06%)",
+                        "itemID": "?witem=9429",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Papal Fez(38) - Cloth: Head (0.01%)",
+                        "itemID": "?witem=9431",
+                        "class": "wowblue"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dungeonName": "Zul'Farrak (40-47)",
+        "sourceList": [{
+                "sourceName": "Dustwraith (45-Rare)",
+                "itemList": [{
+                    "itemName": "Desertwalker Cane(42) - Miscellaneous: Off-Hand (17.99%)",
+                    "itemID": "?witem=12471",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Witch Doctor Zum'rah (46)",
+                "itemList": [{
+                        "itemName": "Jumanza Grips(42) - Cloth: Hands (24.97%)",
+                        "itemID": "?witem=18083",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Zum'rah's Vexing Cane(42) - Staff: Two-Hand (11.97%)",
+                        "itemID": "?witem=18082",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Shadowpriest Sezz'ziz (47)",
+                "itemList": [{
+                    "itemName": "Bad Mojo Mask(44) - Cloth: Head (18.68%)",
+                    "itemID": "?witem=9470",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Antu'sul (48)",
+                "itemList": [{
+                    "itemName": "Lifeblood Amulet(43) - Miscellaneous: Neck (30.78%)",
+                    "itemID": "?witem=9641",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=2770\" class=\"wowgreen\" target=\"_blank\">Quest(B): Tiara of the Deep (46)</a>",
+                "itemList": [{
+                    "itemName": "Spellshifter Rod - Staff: Two-Hand",
+                    "itemID": "?witem=9527",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "Rare Zone Drops  (Various ZF Mobs)",
+                "itemList": [{
+                        "itemName": "Brainlash(43) - Miscellaneous: Finger (0.02%)",
+                        "itemID": "?witem=6440",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Flaming Incinerator(44) - Wand: Ranged (0.01%)",
+                        "itemID": "?witem=9483",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Witch Doctor's Cane(42) - Staff: Two-Hand (0.01%)",
+                        "itemID": "?witem=9482",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Spellshock Leggings(45) - Cloth: Legs (0.01%)",
+                        "itemID": "?witem=9484",
+                        "class": "wowblue"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dungeonName": "Maraudon (45-51)",
+        "sourceList": [{
+                "sourceName": "Meshlok the Harvester (48-Rare)",
+                "itemList": [{
+                    "itemName": "Nature's Embrace(46) - Cloth: Chest (30.27%)",
+                    "itemID": "?witem=17741",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Noxxion (48)",
+                "itemList": [{
+                        "itemName": "Noxious Shooter(46) - Wand: Ranged (18.30%)",
+                        "itemID": "?witem=17745",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Heart of Noxxion(46) - Miscellaneous: Trinket (34.24%)",
+                        "itemID": "?witem=17744",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Razorlash (48)",
+                "itemList": [{
+                    "itemName": "Vinerot Sandals(46) - Cloth: Feet (20.63%)",
+                    "itemID": "?witem=17748",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Landslide (50)",
+                "itemList": [{
+                        "itemName": "Fist of Stone(48) - Mace: Main Hand (16.57%)",
+                        "itemID": "?witem=17943",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Cloud Stone(48) - Miscellaneous: Off-Hand (20.00%)",
+                        "itemID": "?witem=17737",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Rotgrip (50)",
+                "itemList": [{
+                    "itemName": "Rotgrip Mantle(48) - Cloth: Shoulders (25.73%)",
+                    "itemID": "?witem=17732",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Princess Theradras (51)",
+                "itemList": [{
+                        "itemName": "Gemshard Heart(49) - Miscellaneous: Neck (15.30%)",
+                        "itemID": "?witem=17707",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Charstone Dirk(49) - Dagger: Main Hand (14.23%)",
+                        "itemID": "?witem=17710",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Eye of Theradras(49) - Cloth: Head (13.48%)",
+                        "itemID": "?witem=17715",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Blade of Eternal Darkness(49) - Dagger: Main Hand (0.20%)",
+                        "itemID": "?witem=17780",
+                        "class": "wowpurple"
+                    }
+                ]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=7068\" class=\"wowgreen\" target=\"_blank\">Quest(B): Shadowshard Fragments (42)</a>",
+                "itemList": [{
+                    "itemName": "Prodigious Shadowshard Pendant - Miscellaneous: Neck",
+                    "itemID": "?witem=17773",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=7041\" class=\"wowgreen\" target=\"_blank\">Quest(B): Vyletongue Corruption (47)</a>",
+                "itemList": [{
+                    "itemName": "Woodseed Hoop - Miscellaneous: Finger",
+                    "itemID": "?witem=17768",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=7028\" class=\"wowgreen\" target=\"_blank\">Quest(B): Twisted Evils (47)</a>",
+                "itemList": [{
+                    "itemName": "Acumen Robes - Cloth: Chest",
+                    "itemID": "?witem=17775",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=7065\" class=\"wowblue\" target=\"_blank\">Quest(B): Corruption of Earth and Seed (52)</a>",
+                "itemList": [{
+                    "itemName": "Resurgence Rod - Staff: Two-Hand",
+                    "itemID": "?witem=17743",
+                    "class": "wowblue"
+                }]
+            }
+        ]
+    },
+    {
+        "dungeonName": "Temple of Atal'Hakkar (aka Sunken Temple) (50-55)",
+        "sourceList": [{
+                "sourceName": "Avatar of Hakkar (50)",
+                "itemList": [{
+                        "itemName": "Featherskin Cape(49) - Cloth: Back (31.11%)",
+                        "itemID": "?witem=10843",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Spire of Hakkar(49) - Staff: Two-Hand (16.01%)",
+                        "itemID": "?witem=10844",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Embrace of the Wind Serpent(50) - Cloth: Chest (0.14%)",
+                        "itemID": "?witem=12462",
+                        "class": "wowpurple"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Hukku/Mijan/Zul'Lor/ Zolo/Gasher/Loro (51-52)",
+                "itemList": [{
+                    "itemName": "Atal'ai Gloves(47) - Cloth: Hands (5.25%)",
+                    "itemID": "?witem=10787",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Weaver/Hazzas/ Morphaz/Dreamscythe (50-53)",
+                "itemList": [{
+                        "itemName": "Drakeclaw Band(49) - Miscellaneous: Finger (4.10%)",
+                        "itemID": "?witem=10795",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Dawnspire Cord(48) - Cloth: Waist (4.15%)",
+                        "itemID": "?witem=12466",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Nightfall Drape(48) - Cloth: Back (4.34%)",
+                        "itemID": "?witem=12465",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Drakestone(49) - Miscellaneous: Off-Hand (4.45%)",
+                        "itemID": "?witem=10796",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Jammal'an the Prophet (54)",
+                "itemList": [{
+                        "itemName": "Kilt of the Atal'ai Prophet(50) - Cloth: Legs (22.99%)",
+                        "itemID": "?witem=10807",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Gloves of the Atal'ai Prophet(50) - Cloth: Hands (26.73%)",
+                        "itemID": "?witem=10808",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Vestments of the Atal'ai Prophet(50) - Cloth: Chest (24.14%)",
+                        "itemID": "?witem=10806",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Shade of Eranikus (55)",
+                "itemList": [{
+                        "itemName": "Dire Nail(51) - Dagger: One-Hand (10.92%)",
+                        "itemID": "?witem=10828",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Rod of Corrosion(51) - Wand: Ranged (21.55%)",
+                        "itemID": "?witem=10836",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Dragon's Eye(51) - Miscellaneous: Neck (27.03%)",
+                        "itemID": "?witem=10829",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=1446\" class=\"wowblue\" target=\"_blank\">Quest(B): Jammal'an the Prophet (53)</a>",
+                "itemList": [{
+                    "itemName": "Rainstrider Leggings - Cloth: Legs",
+                    "itemID": "?witem=11123",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=3528\" class=\"wowblue\" target=\"_blank\">Quest(B): The God Hakkar (53)</a>",
+                "itemList": [{
+                    "itemName": "Gemburst Circlet - Cloth: Head",
+                    "itemID": "?witem=10751",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Rare Zone Drops  (Various ST Mobs)",
+                "itemList": [{
+                        "itemName": "Mindseye Circle(41) - Miscellaneous: Finger (0.02%)",
+                        "itemID": "?witem=10634",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Mistwalker Boots(45) - Cloth: Feet (0.01%)",
+                        "itemID": "?witem=10629",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Soulcatcher Halo(46) - Cloth: Head (0.01%)",
+                        "itemID": "?witem=10630",
+                        "class": "wowblue"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dungeonName": "Blackrock Depths (52-60)",
+        "sourceList": [{
+                "sourceName": "Lord Roccor (51)",
+                "itemList": [{
+                    "itemName": "Mantle of Lost Hope(48) - Cloth: Shoulders (20.86%)",
+                    "itemID": "?witem=22234",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "High Interrogator Gerstahn (52)",
+                "itemList": [{
+                        "itemName": "Enthralled Sphere(48) - Miscellaneous: Off-Hand (21.42%)",
+                        "itemID": "?witem=11625",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Kentic Amice(47) - Cloth: Shoulders (21.44%)",
+                        "itemID": "?witem=11624",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Pyromancer Loregrain (52-Rare)",
+                "itemList": [{
+                    "itemName": "Kindling Stave(48) - Staff: Two-Hand (16.55%)",
+                    "itemID": "?witem=11750",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Houndmaster Grebmar (52-Rare)",
+                "itemList": [{
+                    "itemName": "Spritecaster Cape(47) - Cloth: Back (16.24%)",
+                    "itemID": "?witem=11623",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Fineous Darkvire (54)",
+                "itemList": [{
+                        "itemName": "Chief Architect's Monocle(50) - Cloth: Head (17.05%)",
+                        "itemID": "?witem=11839",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Senior Designer's Pantaloons(50) - Cloth: Legs (20.81%)",
+                        "itemID": "?witem=11841",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Watchman Doomgrip (55-Rare)",
+                "itemList": [{
+                    "itemName": "Mana Shaping Handwraps(52) - Cloth: Hands (0.79%)",
+                    "itemID": "?witem=22256",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Lord Incendius (56)",
+                "itemList": [{
+                    "itemName": "Flameweave Cuffs(52) - Cloth: Wrist (20.04%)",
+                    "itemID": "?witem=11766",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Golem Lord Argelmach (57)",
+                "itemList": [{
+                        "itemName": "Omnicast Boots(54) - Cloth: Feet (26.49%)",
+                        "itemID": "?witem=11822",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Second Wind(54) - Miscellaneous: Trinket (6.13%)",
+                        "itemID": "?witem=11819",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Panzor the Invincible (57-Rare)",
+                "itemList": [{
+                    "itemName": "Soot Encrusted Footwear(51) - Cloth: Feet (23.64%)",
+                    "itemID": "?witem=22245",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Ambassador Flamelash (57)",
+                "itemList": [{
+                        "itemName": "Cape of the Fire Salamander(53) - Cloth: Back (25.20%)",
+                        "itemID": "?witem=11812",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Burst of Knowledge(53) - Miscellaneous: Trinket (14.85%)",
+                        "itemID": "?witem=11832",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Circle of Flame(54) - Cloth: Head (0.91%)",
+                        "itemID": "?witem=11808",
+                        "class": "wowpurple"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Magmus (57)",
+                "itemList": [{
+                    "itemName": "Magmus Stone(53) - Miscellaneous: Off-Hand (22.00%)",
+                    "itemID": "?witem=11935",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Princess Moira Bronzebeard (58)",
+                "itemList": [{
+                        "itemName": "High Priestess Boots(54) - Cloth: Feet (18.95%)",
+                        "itemID": "?witem=12556",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Hands of the Exalted Herald(54) - Cloth: Hands (17.14%)",
+                        "itemID": "?witem=12554",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Emperor Dagran Thaurissan (59)",
+                "itemList": [{
+                        "itemName": "Emperor's Seal(55) - Miscellaneous: Finger (14.69%)",
+                        "itemID": "?witem=11934",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Thaurissan's Royal Scepter(55) - Miscellaneous: Off-Hand (12.43%)",
+                        "itemID": "?witem=11928",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Robes of the Royal Crown(55) - Cloth: Chest (15.13%)",
+                        "itemID": "?witem=11924",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Guiding Stave of Wisdom(54) - Staff: Two-Hand (14.97%)",
+                        "itemID": "?witem=11932",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Hedrum the Creeper (53) [Arena Spawn]",
+                "itemList": [{
+                    "itemName": "Silkweb Gloves(49) - Cloth: Hands (24.09%)",
+                    "itemID": "?witem=11634",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Ok'thor the Breaker (53) [Arena Spawn]",
+                "itemList": [{
+                        "itemName": "Ban'thok Sash(49) - Cloth: Waist (21.52%)",
+                        "itemID": "?witem=11662",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Cyclopean Band(49) - Miscellaneous: Finger (20.31%)",
+                        "itemID": "?witem=11824",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Anub'shiah (54) [Arena Spawn]",
+                "itemList": [{
+                    "itemName": "Graverot Cape(50) - Cloth: Back (23.45%)",
+                    "itemID": "?witem=11677",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Gorosh the Dervish (56) [Arena Spawn]",
+                "itemList": [{
+                    "itemName": "Bloodclot Band(52) - Miscellaneous: Finger (26.08%)",
+                    "itemID": "?witem=22257",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Chest of The Seven",
+                "itemList": [{
+                        "itemName": "Haunting Specter Leggings(52) - Cloth: Legs (21.58%)",
+                        "itemID": "?witem=11929",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "The Hammer of Grace(52) - Mace: Main Hand (11.00%)",
+                        "itemID": "?witem=11923",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Arena Spoils [Dungeon 2 Event]",
+                "itemList": [{
+                        "itemName": "Ironweave Mantle(56) - Cloth: Shoulders (23.66%)",
+                        "itemID": "?witem=22305",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Shroud of Arcane Mastery(56) - Cloth: Back (23.65%)",
+                        "itemID": "?witem=22330",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=4201\" class=\"wowblue\" target=\"_blank\">Quest(B): The Love Potion (54)</a>",
+                "itemList": [{
+                    "itemName": "Manacle Cuffs - Cloth: Wrist",
+                    "itemID": "?witem=11962",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=4063\" class=\"wowgreen\" target=\"_blank\">Quest(H): The Rise of the Machines (58)</a>",
+                "itemList": [{
+                    "itemName": "Azure Moon Amice - Cloth: Shoulders",
+                    "itemID": "?witem=12109",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=4363\" class=\"wowblue\" target=\"_blank\">Quest(A): The Princess's Surprise(59)</a>",
+                "itemList": [{
+                    "itemName": "Songstone of Ironforge - Miscellaneous: Finger",
+                    "itemID": "?witem=12543",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=4004\" class=\"wowblue\" target=\"_blank\">Quest(H): The Princess Saved?(60)</a>",
+                "itemList": [{
+                    "itemName": "Eye of Orgrimmar - Miscellaneous: Finger",
+                    "itemID": "?witem=12545",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Rare Zone Drops  (Various BRD Mobs)",
+                "itemList": [{
+                        "itemName": "Spire of the Stoneshaper(51) - Staff: Two-Hand (0.02%)",
+                        "itemID": "?witem=12532",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Aristocratic Cuffs(49) - Cloth: Wrist (0.04%)",
+                        "itemID": "?witem=12546",
+                        "class": "wowblue"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dungeonName": "Lower Blackrock Spire (57-60)",
+        "sourceList": [{
+                "sourceName": "Burning Felguard (56-Rare)",
+                "itemList": [{
+                    "itemName": "Demonskin Gloves(52) - Cloth: Hands (13.98%)",
+                    "itemID": "?witem=13181",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Spirestone Butcher (57-Rare)",
+                "itemList": [{
+                    "itemName": "Butcher's Apron(53) - Cloth: Back (53.57%)",
+                    "itemID": "?witem=12608",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Spirestone Lord Magus (58-Rare)",
+                "itemList": [{
+                        "itemName": "Globe of D'sak(54) - Miscellaneous: Off-Hand (18.85%)",
+                        "itemID": "?witem=13261",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Magus Ring(54) - Miscellaneous: Finger (39.53%)",
+                        "itemID": "?witem=13283",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Ogreseer Tower Boots(54) - Cloth: Feet (24.08%)",
+                        "itemID": "?witem=13282",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Highlord Omokk (59)",
+                "itemList": [{
+                    "itemName": "Skyshroud Leggings(55) - Cloth: Legs (8.65%)",
+                    "itemID": "?witem=13170",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Quartermaster Zigris(59)",
+                "itemList": [{
+                    "itemName": "Hands of Power(55) - Cloth: Hands (16.08%)",
+                    "itemID": "?witem=13253",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "War Master Voone(59)",
+                "itemList": [{
+                    "itemName": "Kayser's Boots of Precision(56) - Cloth: Feet (14.73%)",
+                    "itemID": "?witem=22231",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Crystal Fang(60-Rare)",
+                "itemList": [{
+                    "itemName": "Sunderseer Mantle(56) - Cloth: Shoulders (26.45%)",
+                    "itemID": "?witem=13185",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Halycon (60)",
+                "itemList": [{
+                    "itemName": "Ironweave Bracers(56) - Cloth: Wrist (17.75%)",
+                    "itemID": "?witem=22313",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Gizrul the Slavener (60)",
+                "itemList": [{
+                    "itemName": "Wolfshear Leggings(56) - Cloth: Legs (17.61%)",
+                    "itemID": "?witem=13206",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Urok Doomhowl (60-Spawned)",
+                "itemList": [{
+                    "itemName": "Rosewine Circle(55) - Miscellaneous: Finger (11.01%)",
+                    "itemID": "?witem=13178",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Mor Grayhoof (60) [Dungeon 2 Event]",
+                "itemList": [{
+                        "itemName": "Ironweave Belt(56) - Cloth: Waist (21.60%)",
+                        "itemID": "?witem=22306",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Tome of Divine Right(56) - Miscellaneous: Off-Hand (19.09%)",
+                        "itemID": "?witem=22319",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Shadow Hunter Vosh'gajin (B)",
+                "itemList": [{
+                    "itemName": "Funeral Cuffs(54) - Cloth: Wrist (18.95%)",
+                    "itemID": "?witem=12626",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Overlord Wyrmthalak (B)",
+                "itemList": [{
+                        "itemName": "Trindlehaven Staff(56) - Staff: Two-Hand (10.96%)",
+                        "itemID": "?witem=13161",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Mark of the Dragon Lord(56) - Miscellaneous: Finger (1.00%)",
+                        "itemID": "?witem=13143",
+                        "class": "wowpurple"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Quest (59):  <a href=\"https://classic.wowhead.com/quest=4724\" class=\"wowgreen\" target=\"_blank\">Horde: The Pack Mistress</a> \n\t\t\t<a href=\"https://classic.wowhead.com/quest=4701\" class=\"wowgreen\" target=\"_blank\">Alliance: Put Her Down</a>",
+                "itemList": [{
+                    "itemName": "Astoria Robes - Cloth: Chest",
+                    "itemID": "?witem=15824",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "Quest (61):  <a href=\"https://classic.wowhead.com/quest=4903\" class=\"wowblue\" target=\"_blank\">Horde: Warlord's Command</a> \n\n\t\t\t<a href=\"https://classic.wowhead.com/quest=5081\" class=\"wowblue\" target=\"_blank\">Alliance: Maxwell's Mission</a>",
+                "itemList": [{
+                    "itemName": "Wyrmthalak's Shackles - Cloth: Wrist",
+                    "itemID": "?witem=13958",
+                    "class": "wowblue"
+                }]
+            }
+        ]
+    },
+    {
+        "dungeonName": "Stratholme Undead Side (58-60)",
+        "sourceList": [{
+                "sourceName": "Magistrate Barthilas (58)",
+                "itemList": [{
+                        "itemName": "Royal Tribunal Cloak(54) - Cloth: Back (12.60%)",
+                        "itemID": "?witem=13376",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Crimson Felt Hat(54) - Cloth: Head (13.94%)",
+                        "itemID": "?witem=18727",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Baroness Anastari (59)",
+                "itemList": [{
+                        "itemName": "Banshee Finger(55) - Wand: Ranged (12.92%)",
+                        "itemID": "?witem=13534",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Shadowy Laced Handwraps(55) - Cloth: Hands (13.50%)",
+                        "itemID": "?witem=18730",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Nerub'enkan (60)",
+                "itemList": [{
+                    "itemName": "Thuzadin Sash(56) - Cloth: Waist (14.41%)",
+                    "itemID": "?witem=18740",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Maleki the Pallid (61)",
+                "itemList": [{
+                        "itemName": "Skull of Burning Shadows(57) - Miscellaneous: Off-Hand (13.25%)",
+                        "itemID": "?witem=13524",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Devout Sandals(54) - Cloth: Feet (13.42%)",
+                        "itemID": "?witem=16691",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Ramstein the Gorger (61)",
+                "itemList": [{
+                        "itemName": "Soulstealer Mantle(55) - Cloth: Shoulders (8.93%)",
+                        "itemID": "?witem=13374",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Animated Chain Necklace(57) - Miscellaneous: Neck (7.80%)",
+                        "itemID": "?witem=18723",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Baron Rivendare (62)",
+                "itemList": [{
+                        "itemName": "Seal of Rivendare(58) - Miscellaneous: Finger (9.16%)",
+                        "itemID": "?witem=13345",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Ritssyn's Wand of Bad Mojo(58) - Wand: Ranged (6.58%)",
+                        "itemID": "?witem=22408",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Thuzadin Mantle(58) - Cloth: Shoulders (7.20%)",
+                        "itemID": "?witem=22412",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Robes of the Exalted(58) - Cloth: Chest (11.20%)",
+                        "itemID": "?witem=13346",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Devout Skirt(56) - Cloth: Legs (7.76%)",
+                        "itemID": "?witem=16694",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=5243\" class=\"wowgreen\" target=\"_blank\">Quest(B): Houses of the Holy(61)</a>",
+                "itemList": [{
+                    "itemName": "Crown of the Penitent - Cloth: Head",
+                    "itemID": "?witem=13216",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=\" class=\"wowblue\" target=\"_blank\">Quest(H): Ramstein(62)</a>",
+                "itemList": [{
+                    "itemName": "Royal Seal of Alexis(54) - Miscellaneous: Finger",
+                    "itemID": "?witem=16999",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=5125\" class=\"wowblue\" target=\"_blank\">Quest(B): Aurius' Reckoning(60)</a>",
+                "itemList": [{
+                    "itemName": "Blood of the Martyr - Miscellaneous: Finger",
+                    "itemID": "?witem=17045",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=5263\" class=\"wowblue\" target=\"_blank\">Quest(B): Above and Beyond(62)</a>",
+                "itemList": [{
+                    "itemName": "Argent Crusader - Staff: Two-Hand",
+                    "itemID": "?witem=13249",
+                    "class": "wowblue"
+                }]
+            }
+        ]
+    },
+    {
+        "dungeonName": "Stratholme Living Side (58-60)",
+        "sourceList": [{
+                "sourceName": "The Unforgiven (57)",
+                "itemList": [{
+                    "itemName": "Tearfall Bracers(52) - Cloth: Wrist (14.96%)",
+                    "itemID": "?witem=13409",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Timmy the Cruel (58)",
+                "itemList": [{
+                    "itemName": "Grimgore Noose(54) - Cloth: Waist (15.80%)",
+                    "itemID": "?witem=13403",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Cannon Master Willey (60)",
+                "itemList": [{
+                        "itemName": "Redemption(56) - Staff: Two-Hand (7.27%)",
+                        "itemID": "?witem=22406",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Mantle of the Scarlet Crusade(56) - Cloth: Shoulders (16.70%)",
+                        "itemID": "?witem=22405",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Diana's Pearl Necklace(56) - Miscellaneous: Neck (15.10%)",
+                        "itemID": "?witem=22403",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Archivist Galford (60)",
+                "itemList": [{
+                        "itemName": "Tome of Knowledge(56) - Miscellaneous: Off-Hand (10.22%)",
+                        "itemID": "?witem=13385",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Archivist Cape(56) - Cloth: Back (17.79%)",
+                        "itemID": "?witem=13386",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Devout Gloves(54) - Cloth: Hands (11.69%)",
+                        "itemID": "?witem=16692",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Jarien (60) [Dungeon 2 Event]",
+                "itemList": [{
+                        "itemName": "Scepter of Interminable Focus(58) - Miscellaneous: Off-Hand (3.66%)",
+                        "itemID": "?witem=22329",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Amulet of the Redeemed(58) - Miscellaneous: Neck (2.44%)",
+                        "itemID": "?witem=22327",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Band of Mending(57) - Miscellaneous: Finger (4.88%)",
+                        "itemID": "?witem=22334",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Balnazzar (62)",
+                "itemList": [{
+                        "itemName": "Gift of the Elven Magi(58) - Dagger: One-Hand (13.59%)",
+                        "itemID": "?witem=13360",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Shroud of the Nathrezim(58) - Cloth: Shoulders (10.81%)",
+                        "itemID": "?witem=18720",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Star of Mystaria(58) - Miscellaneous: Neck (11.21%)",
+                        "itemID": "?witem=12103",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Book of the Dead(58) - Miscellaneous: Off-Hand (1.53%)",
+                        "itemID": "?witem=13353",
+                        "class": "wowpurple"
+                    },
+                    {
+                        "itemName": "Pattern: Truefaith Vestments - Tailoring: (3.86%)",
+                        "itemID": "?witem=14512",
+                        "class": "wowpurple"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Set: <a href=\"http://wow.allakhazam.com/db/itemset.html?setid=81\" class=\"wowblue\" target=\"_blank\">The Postmaster</a>  from <a href=\"http://wow.allakhazam.com/db/mob.html?wmob=11143\" class=\"wowblue\" target=\"_blank\">Postmaster Malown</a>",
+                "itemList": [{
+                        "itemName": "The Postmaster's Tunic(56) - Cloth: Chest (15.02%)",
+                        "itemID": "?witem=13388",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "The Postmaster's Trousers(56) - Cloth: Legs (16.43%)",
+                        "itemID": "?witem=13389",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "The Postmaster's Treads(56) - Cloth: Feet (10.33%)",
+                        "itemID": "?witem=13391",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "The Postmaster's Seal(56) - Miscellaneous: Finger (12.21%)",
+                        "itemID": "?witem=13392",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "The Postmaster's Band(56) - Cloth: Head (7.04%)",
+                        "itemID": "?witem=13390",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=5848\" class=\"wowblue\" target=\"_blank\">Quest(B): Of Love and Family(60)</a>",
+                "itemList": [{
+                        "itemName": "Shroud of the Exile - Cloth: Back",
+                        "itemID": "?witem=15421",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Fordring's Seal - Miscellaneous: Finger",
+                        "itemID": "?witem=16058",
+                        "class": "wowblue"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dungeonName": "Scholomance (60)",
+        "sourceList": [{
+                "sourceName": "6 Chamber Sub-Bosses",
+                "itemList": [{
+                        "itemName": "Necropile Robe(56) - Cloth: Chest (1.85%)",
+                        "itemID": "?witem=14626",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Necropile Mantle(56) - Cloth: Shoulders (1.49%)",
+                        "itemID": "?witem=14633",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Necropile Leggings(56) - Cloth: Legs (1.41%)",
+                        "itemID": "?witem=14632",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Necropile Cuffs(56) - Cloth: Wrist (1.56%)",
+                        "itemID": "?witem=14629",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Necropile Boots(56) - Cloth: Feet (1.43%)",
+                        "itemID": "?witem=14631",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Necropile Raiment",
+                        "itemID": "?setid=122",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Dimly Opalescent Ring(56) - Miscellaneous: Finger (1.92%)",
+                        "itemID": "?witem=18684",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Burial Shawl(56) - Cloth: Shoulders (2.17%)",
+                        "itemID": "?witem=18681",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Kirtonos the Herald (60)",
+                "itemList": [{
+                        "itemName": "Heart of the Fiend(56) - Miscellaneous: Neck (16.66%)",
+                        "itemID": "?witem=13960",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Clutch of Andros(56) - Cloth: Waist (16.04%)",
+                        "itemID": "?witem=13956",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Kormok (60) [Arena Spawn]",
+                "itemList": [{
+                        "itemName": "Amalgam's Band(58) - Miscellaneous: Finger (15.90%)",
+                        "itemID": "?witem=22326",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Ironweave Pants(57) - Cloth: Legs (23.67%)",
+                        "itemID": "?witem=22303",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Vectus (61)",
+                "itemList": [{
+                    "itemName": "Skullsmoke Pants(56) - Cloth: Legs (6.24%)",
+                    "itemID": "?witem=14577",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Jandice Barov (61)",
+                "itemList": [{
+                        "itemName": "Darkshade Gloves(57) - Cloth: Hands (0.15%)",
+                        "itemID": "?witem=14543",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Staff of Metanoia(57) - Staff: Two-Hand (9.08%)",
+                        "itemID": "?witem=22394",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Ras Frostwhisper (62)",
+                "itemList": [{
+                        "itemName": "Spellbound Tome(57) - Miscellaneous: Off-Hand (11.01%)",
+                        "itemID": "?witem=18695",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Alanna's Embrace(57) - Cloth: Chest (1.11%)",
+                        "itemID": "?witem=13314",
+                        "class": "wowpurple"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Darkmaster Gandling (61)",
+                "itemList": [{
+                        "itemName": "Bonecreeper Stylus(57) - Wand: Ranged (9.19%)",
+                        "itemID": "?witem=13938",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Witchblade(57) - Dagger: One-Hand (9.90%)",
+                        "itemID": "?witem=13964",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Don Mauricio's Band of Domination(58) - Miscellaneous: Finger (8.19%)",
+                        "itemID": "?witem=22433",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Devout Crown(57) - Cloth: Head (7.93%)",
+                        "itemID": "?witem=16693",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Headmaster's Charge(57) - Staff: Two-Hand (1.31%)",
+                        "itemID": "?witem=13937",
+                        "class": "wowpurple"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Death Knight Darkreaver (62-Spawned)",
+                "itemList": [{
+                    "itemName": "Oblivion's Touch(57) - Wand: Ranged (16.77%)",
+                    "itemID": "?witem=18761",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=4771\" class=\"wowblue\" target=\"_blank\">Quest(B): Dawn's Gambit(60)</a>",
+                "itemList": [{
+                    "itemName": "Dancing Sliver - Staff: Two-Hand",
+                    "itemID": "?witem=15854",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=5384\" class=\"wowblue\" target=\"_blank\">Quest(B): Kirtonos the Herald(60)</a>",
+                "itemList": [{
+                    "itemName": "Penelope's Rose - Miscellaneous: Off-Hand",
+                    "itemID": "?witem=15805",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=5466\" class=\"wowblue\" target=\"_blank\">Quest(B): The Lich, Ras Frostwhisper(63)</a>",
+                "itemList": [{
+                    "itemName": "Crown of Caer Darrow - Cloth: Head",
+                    "itemID": "?witem=13986",
+                    "class": "wowblue"
+                }]
+            }
+        ]
+    },
+    {
+        "dungeonName": "Dire Maul East (58-60)",
+        "sourceList": [{
+                "sourceName": "•Phase Lasher (55)",
+                "itemList": [{
+                    "itemName": "Phasing Boots(50) - Cloth: Feet (1.25%)",
+                    "itemID": "?witem=18295",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Hydrospawn (57)",
+                "itemList": [{
+                    "itemName": "Tempest Talisman(53) - Miscellaneous: Neck (16.57%)",
+                    "itemID": "?witem=18317",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Lethtendris (57)",
+                "itemList": [{
+                        "itemName": "Lethtendris's Wand(53) - Wand: Ranged (25.56%)",
+                        "itemID": "?witem=18301",
+                        "class": "wowgreen"
+                    },
+                    {
+                        "itemName": "Quel'dorai Channeling Rod(53) - Staff: Two-Hand (7.28%)",
+                        "itemID": "?witem=18311",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Alzzin the Wildshaper(58)",
+                "itemList": [{
+                        "itemName": "Ring of Demonic Guile(54) - Miscellaneous: Finger (13.67%)",
+                        "itemID": "?witem=18314",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Whipvine Cord(54) - Cloth: Waist (16.62%)",
+                        "itemID": "?witem=18327",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Energetic Rod(54) - Mace: Main Hand (16.00%)",
+                        "itemID": "?witem=18321",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Isalien (60) [Dungeon 2 Event]",
+                "itemList": [{
+                        "itemName": "Ironweave Gloves(56) - Cloth: Hands (17.98%)",
+                        "itemID": "?witem=22304",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Hammer of Revitalization(56) - Mace: Main Hand (14.20%)",
+                        "itemID": "?witem=22315",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=7489\" class=\"wowblue\" target=\"_blank\">Quest(B): Lethtendris's Web(57)</a>",
+                "itemList": [{
+                    "itemName": "Lorespinner - Dagger: Main Hand",
+                    "itemID": "?witem=18491",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=5527\" class=\"wowblue\" target=\"_blank\">Quest(B): A Reliquary of Purity(60)</a>",
+                "itemList": [{
+                    "itemName": "Milli's Lexicon - Miscellaneous: Off-Hand",
+                    "itemID": "?witem=18536",
+                    "class": "wowblue"
+                }]
+            }
+        ]
+    },
+    {
+        "dungeonName": "Dire Maul North (60)",
+        "sourceList": [{
+                "sourceName": "Guard Mol'dar/ Guard Slip'kik (59)",
+                "itemList": [{
+                        "itemName": "Sublime Wristguards(55) - Cloth: Wrist (4.50%)",
+                        "itemID": "?witem=18497",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Heliotrope Cloak(55) - Cloth: Back (5.23%)",
+                        "itemID": "?witem=18496",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Cho'Rush the Observer (60)",
+                "itemList": [{
+                    "itemName": "Mana Channeling Wand(56) - Wand: Ranged (18.99%)",
+                    "itemID": "?witem=18483",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Captain Kromcrush (61)",
+                "itemList": [{
+                    "itemName": "Boots of the Full Moon(57) - Cloth: Feet (18.89%)",
+                    "itemID": "?witem=18507",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "King Gordok (62)",
+                "itemList": [{
+                        "itemName": "Brightly Glowing Stone(58) - Miscellaneous: Off-Hand (20.09%)",
+                        "itemID": "?witem=18523",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Crown of the Ogre King(58) - Cloth: Head (17.28%)",
+                        "itemID": "?witem=18526",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Gordok Tribute",
+                "itemList": [{
+                        "itemName": "Mindsurge Robe(57) - Cloth: Chest (0.20%)",
+                        "itemID": "?witem=18532",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Rod of the Ogre Magi(58) - Staff: Two-Hand (0.12%)",
+                        "itemID": "?witem=18534",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "<a href=\"https://classic.wowhead.com/quest=1318\" class=\"wowblue\" target=\"_blank\">Quest(B): Unfinished Gordok Business(60)</a>",
+                "itemList": [{
+                    "itemName": "Gordok's Handwraps - Cloth: Hands",
+                    "itemID": "?witem=18369",
+                    "class": "wowblue"
+                }]
+            }
+        ]
+    },
+    {
+        "dungeonName": "Dire Maul West (60)",
+        "sourceList": [{
+                "sourceName": "Tsu'zee (59-Rare)",
+                "itemList": [{
+                    "itemName": "Brightspark Gloves(55) - Cloth: Hands (26.32%)",
+                    "itemID": "?witem=18387",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Illyanna Ravenoak (60)",
+                "itemList": [{
+                    "itemName": "Padre's Trousers(56) - Cloth: Legs (18.92%)",
+                    "itemID": "?witem=18386",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Magister Kalendris (60)",
+                "itemList": [{
+                        "itemName": "Amplifying Cloak(56) - Cloth: Back (21.44%)",
+                        "itemID": "?witem=18350",
+                        "class": "wowgreen"
+                    },
+                    {
+                        "itemName": "Elder Magus Pendant(56) - Miscellaneous: Neck (17.44%)",
+                        "itemID": "?witem=18397",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Mindtap Talisman(56) - Miscellaneous: Trinket (7.42%)",
+                        "itemID": "?witem=18371",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Tendris Warpwood (60)",
+                "itemList": [{
+                    "itemName": "Stoneflower Staff(56) - Staff: Two-Hand (23.42%)",
+                    "itemID": "?witem=18353",
+                    "class": "wowgreen"
+                }]
+            },
+            {
+                "sourceName": "Immol'thar (60)",
+                "itemList": [{
+                        "itemName": "Cloak of the Cosmos(57) - Cloth: Back (14.31%)",
+                        "itemID": "?witem=18389",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Robe of Everlasting Night(57) - Cloth: Chest (15.37%)",
+                        "itemID": "?witem=18385",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Prince Tortheldrin (61)",
+                "itemList": [{
+                        "itemName": "Fluctuating Cloak(57) - Cloth: Back (21.81%)",
+                        "itemID": "?witem=18382",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Emerald Flame Ring(57) - Miscellaneous: Finger (14.54%)",
+                        "itemID": "?witem=18395",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Lord Hel'nurath (62-Spawned)",
+                "itemList": [{
+                    "itemName": "Diabolic Mantle(57) - Cloth: Shoulders (22.61%)",
+                    "itemID": "?witem=18757",
+                    "class": "wowblue"
+                }]
+            }
+        ]
+    },
+    {
+        "dungeonName": "Upper Blackrock Spire (60)",
+        "sourceList": [{
+                "sourceName": "Jed Runewatcher (59-Rare)",
+                "itemList": [{
+                        "itemName": "Starfire Tiara(55) - Cloth: Head (27.36%)",
+                        "itemID": "?witem=12604",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Serpentine Skuller(51) - Wand: Ranged (33.52%)",
+                        "itemID": "?witem=12605",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Briarwood Reed(55) - Miscellaneous: Trinket (25.88%)",
+                        "itemID": "?witem=12930",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Solakar Flamewreath (60-Spawned)",
+                "itemList": [{
+                        "itemName": "Polychromatic Visionwrap(56) - Cloth: Chest (15.66%)",
+                        "itemID": "?witem=12609",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Dustfeather Sash(56) - Cloth: Waist (16.41%)",
+                        "itemID": "?witem=12589",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Devout Mantle(55) - Cloth: Shoulders (12.49%)",
+                        "itemID": "?witem=16695",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Goraluk Anvilcrack (61)",
+                "itemList": [{
+                    "itemName": "Mastersmith's Hammer(55) - Mace: Main Hand (17.14%)",
+                    "itemID": "?witem=18048",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Gyth (B)",
+                "itemList": [{
+                    "itemName": "Dragonskin Cowl(55) - Cloth: Head (12.53%)",
+                    "itemID": "?witem=22225",
+                    "class": "wowblue"
+                }]
+            },
+            {
+                "sourceName": "Warchief Rend Blackhand (B)",
+                "itemList": [{
+                        "itemName": "Band of Rumination(58) - Miscellaneous: Finger (15.75%)",
+                        "itemID": "?witem=18103",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Dragonrider Boots(58) - Cloth: Feet (14.37%)",
+                        "itemID": "?witem=18102",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Faith Healer's Boots(58) - Cloth: Feet (13.21%)",
+                        "itemID": "?witem=22247",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "The Beast (B)",
+                "itemList": [{
+                        "itemName": "Frostweaver Cape(58) - Cloth: Back (13.83%)",
+                        "itemID": "?witem=12968",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Ironweave Boots(56) - Cloth: Feet (12.21%)",
+                        "itemID": "?witem=22311",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Bloodmoon Cloak(58) - Cloth: Back (18.52%)",
+                        "itemID": "?witem=12967",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Spiritshroud Leggings(58) - Cloth: Legs (12.94%)",
+                        "itemID": "?witem=12965",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Lord Valthalak (B) [Dungeon 2 Event]",
+                "itemList": [{
+                        "itemName": "Ironweave Cowl(58) - Cloth: Head (28.03%)",
+                        "itemID": "?witem=22302",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Lord Valthalak's Staff of Command(58) - Staff: Two-Hand (13.89%)",
+                        "itemID": "?witem=22335",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Rune Band of Wizardry(58) - Miscellaneous: Finger (15.91%)",
+                        "itemID": "?witem=22339",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "General Drakkisath (B)",
+                "itemList": [{
+                        "itemName": "Tooth of Gnarr(58) - Miscellaneous: Neck (16.91%)",
+                        "itemID": "?witem=13141",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Spellweaver's Turban(60) - Cloth: Head (16.55%)",
+                        "itemID": "?witem=22267",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Tome of the Lost(58) - Miscellaneous: Off-Hand (16.67%)",
+                        "itemID": "?witem=22253",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Draconic Infused Emblem(58) - Miscellaneous: Trinket (4.87%)",
+                        "itemID": "?witem=22268",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Devout Robe(58) - Cloth: Chest (6.12%)",
+                        "itemID": "?witem=16690",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Quest (63):  <a href=\"https://classic.wowhead.com/quest=4974\" class=\"wowblue\" target=\"_blank\">Horde: For The Horde!</a> \n\t\t\t<a href=\"https://classic.wowhead.com/quest=51021\" class=\"wowblue\" target=\"_blank\">Alliance: General Drakkisath's Demise</a>",
+                "itemList": [{
+                    "itemName": "Eye of the Beast - Miscellaneous: Trinket",
+                    "itemID": "?witem=13968",
+                    "class": "wowblue"
+                }]
+
+
+            }
+        ]
+    },
+    {
+        "dungeonName": "PvP Rewards",
+        "sourceList": [{
+
+                "sourceName": "Horde PvP Rewards",
+                "itemList": [{
+                        "itemName": "Champion's Satin Mantle(60) - Cloth: Shoulders",
+                        "itemID": "?witem=23262",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Champion's Satin Hood(60) - Cloth: Head",
+                        "itemID": "?witem=23261",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Legionnaire's Satin Legguards(60) - Cloth: Legs",
+                        "itemID": "?witem=22882",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Legionnaire's Satin Tunic(60) - Cloth: Chest",
+                        "itemID": "?witem=22885",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Blood Guard's Satin Walkers(60) - Cloth: Feet",
+                        "itemID": "?witem=22859",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Blood Guard's Satin Handwraps(60) - Cloth: Hands",
+                        "itemID": "?witem=22869",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Alliance PvP Rewards",
+                "itemList": [{
+                        "itemName": "Lieutenant Commander's Satin Mantle(60) - Cloth: Shoulders",
+                        "itemID": "?witem=23317",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Lieutenant Commander's Satin Hood(60) - Cloth: Head",
+                        "itemID": "?witem=23316",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Knight-Captain's Satin Legguards(60) - Cloth: Legs",
+                        "itemID": "?witem=23302",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Knight-Captain's Satin Tunic(60) - Cloth: Chest",
+                        "itemID": "?witem=23303",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Knight-Lieutenant's Satin Walkers(60) - Cloth: Feet",
+                        "itemID": "?witem=23289",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Knight-Lieutenant's Satin Handwraps(60) - Cloth: Hands",
+                        "itemID": "?witem=23288",
+                        "class": "wowblue"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Horde Alterac Valley Rewards",
+                "itemList": [{
+                        "itemName": "Frostwolf Advisor's Cloak(55) - Cloth: Back",
+                        "itemID": "?witem=19085",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Frostwolf Advisor's Pendant(55) - Miscellaneous: Neck",
+                        "itemID": "?witem=19096",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Frostwolf Cloth Belt(55) - Cloth: Waist",
+                        "itemID": "?witem=19090",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Whiteout Staff(60) - Staff: Two-Hand",
+                        "itemID": "?witem=19101",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Tome of Shadow Force(60) - Miscellaneous: Off-Hand",
+                        "itemID": "?witem=19309",
+                        "class": "wowpurple"
+                    },
+                    {
+                        "itemName": "Lei of the Lifegiver(60) - Miscellaneous: Off-Hand",
+                        "itemID": "?witem=19312",
+                        "class": "wowpurple"
+                    },
+                    {
+                        "itemName": "Therazane's Touch(60) - Miscellaneous: Off-Hand",
+                        "itemID": "?witem=19315",
+                        "class": "wowpurple"
+                    },
+                    {
+                        "itemName": "Don Rodrigo's Band(60) - Miscellaneous: Finger",
+                        "itemID": "?witem=21563",
+                        "class": "wowpurple"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Alliance Alterac Valley Rewards",
+                "itemList": [{
+                        "itemName": "Stormpike Sage's Cloak(55) - Cloth: Back",
+                        "itemID": "?witem=19086",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Stormpike Sage's Pendant(55) - Miscellaneous: Neck",
+                        "itemID": "?witem=19098",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Stormpike Cloth Girdle(55) - Cloth: Waist",
+                        "itemID": "?witem=19094",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Crackling Staff(60) - Staff: Two-Hand",
+                        "itemID": "?witem=19102",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Tome of Shadow Force(60) - Miscellaneous: Off-Hand",
+                        "itemID": "?witem=19309",
+                        "class": "wowpurple"
+                    },
+                    {
+                        "itemName": "Lei of the Lifegiver(60) - Miscellaneous: Off-Hand",
+                        "itemID": "?witem=19312",
+                        "class": "wowpurple"
+                    },
+                    {
+                        "itemName": "Therazane's Touch(60) - Miscellaneous: Off-Hand",
+                        "itemID": "?witem=19315",
+                        "class": "wowpurple"
+                    },
+                    {
+                        "itemName": "Don Rodrigo's Band(60) - Miscellaneous: Finger",
+                        "itemID": "?witem=21563",
+                        "class": "wowpurple"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Horde Arathi Basin Rewards",
+                "itemList": [{
+                        "itemName": "Defiler's Talisman(58) - Miscellaneous: Trinket",
+                        "itemID": "?witem=20072",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Defiler's Cloth Girdle(58) - Cloth: Waist",
+                        "itemID": "?witem=20163",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Defiler's Cloth Boots(58) - Cloth: Feet",
+                        "itemID": "?witem=20159",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Defiler's Epaulets(60) - Cloth: Shoulders",
+                        "itemID": "?witem=20176",
+                        "class": "wowpurple"
+                    },
+                    {
+                        "itemName": "Sageclaw(60) - Dagger: One-Hand",
+                        "itemID": "?witem=20070",
+                        "class": "wowpurple"
+                    },
+                    {
+                        "itemName": "Ironbark Staff(60) - Staff: Two-Hand",
+                        "itemID": "?witem=20220",
+                        "class": "wowpurple"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Alliance Arathi Basin Rewards",
+                "itemList": [{
+                        "itemName": "Talisman of Arathor(58) - Miscellaneous: Trinket",
+                        "itemID": "?witem=20071",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Highlander's Cloth Girdle(58) - Cloth: Waist",
+                        "itemID": "?witem=20047",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Highlander's Cloth Boots(58) - Cloth: Feet",
+                        "itemID": "?witem=20054",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Highlander's Epaulets(60) - Cloth: Shoulders",
+                        "itemID": "?witem=20061",
+                        "class": "wowpurple"
+                    },
+                    {
+                        "itemName": "Sageclaw(60) - Dagger: One-Hand",
+                        "itemID": "?witem=20070",
+                        "class": "wowpurple"
+                    },
+                    {
+                        "itemName": "Ironbark Staff(60) - Staff: Two-Hand",
+                        "itemID": "?witem=20220",
+                        "class": "wowpurple"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Horde Warsong Gultch Rewards",
+                "itemList": [{
+                        "itemName": "Advisor's Ring(58) - Miscellaneous: Finger",
+                        "itemID": "?witem=19518",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Battle Healer's Cloak(58) - Cloth: Back",
+                        "itemID": "?witem=19526",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Advisor's Gnarled Staff(58) - Staff: Two-Hand",
+                        "itemID": "?witem=19566",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Dryad's Wrist Bindings(60) - Cloth: Wrist",
+                        "itemID": "?witem=19595",
+                        "class": "wowpurple"
+                    },
+                    {
+                        "itemName": "Outrider's Silk Leggings(60) - Cloth: Legs",
+                        "itemID": "?witem=22747",
+                        "class": "wowpurple"
+                    }
+                ]
+            },
+            {
+                "sourceName": "Alliance Warsong Gultch Rewards",
+                "itemList": [{
+                        "itemName": "Lorekeeper's Ring(58) - Miscellaneous: Finger",
+                        "itemID": "?witem=19522",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Caretaker's Cape(58) - Cloth: Back",
+                        "itemID": "?witem=19530",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Lorekeeper's Staff(58) - Staff: Two-Hand",
+                        "itemID": "?witem=19570",
+                        "class": "wowblue"
+                    },
+                    {
+                        "itemName": "Dryad's Wrist Bindings(60) - Cloth: Wrist",
+                        "itemID": "?witem=19595",
+                        "class": "wowpurple"
+                    },
+                    {
+                        "itemName": "Sentinel's Silk Leggings(60) - Cloth: Legs",
+                        "itemID": "?witem=22752",
+                        "class": "wowpurple"
+                    }
+                ]
+            }
+        ]
+    }
+]

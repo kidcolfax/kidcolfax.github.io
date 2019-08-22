@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <title>Waypoint TEST</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <script src="app.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="text/javascript"></script>
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div id="header">
+        <div id="headerLogo"></div>
+        <span id="newsTitle">NEWS</span>
+        <div id="newsBox">
+            <b>8/20/19</b><br>
+            <span class="newsText">I am pleased to announce the launch of classic-loot.com! On this page you can see the dungeon drops for each class by selecting the class icon below. The gear is priortized by armor type (That means no cloth in
+            the paladin tables). These are not best in slot lists, and isn't meant to be the be a casual list of gear you can obtain through dungeons and PvP. This is data scraped from the orignal class loot lists from the Vanilla era. Enjoy this blast
+            from the past, and if you enjoy the content, feel free to check out my stream when Classic launches on August 27th at <span id ="twitchLink">twitch.tv/kidcolfax</span>
+            </span>
+        </div>
+        <div id="classBar">
+            <div id="chooseClassText">Select a class</div>
+            <div id="druidLogo" class="classLogo" onclick="druidLoad()"></div>
+            <div id="hunterLogo" class="classLogo" onclick="hunterLoad()"></div>
+            <div id="mageLogo" class="classLogo" onclick="mageLoad()"></div>
+            <div id="paladinLogo" class="classLogo" onclick="paladinLoad()"></div><br>
+            <div id="priestLogo" class="classLogo" onclick="priestLoad()"></div>
+            <div id="rogueLogo" class="classLogo" onclick="rogueLoad()"></div>
+            <div id="shamanLogo" class="classLogo" onclick="shamanLoad()"></div>
+            <div id="warlockLogo" class="classLogo" onclick="warlockLoad()"></div>
+            <div id="warriorLogo" class="classLogo" onclick="warriorLoad()"></div>
+        </div>
+
+    </div>
+
+
+    <div class="accordion" id="accordionExample"></div>
+    <div id="footer"></div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+
+</html>
