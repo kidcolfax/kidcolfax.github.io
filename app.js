@@ -244,7 +244,7 @@ function populateDungeons(data) {
 
                 itemID = itemID.substring(itemID.indexOf("=") + 1);
                 newDiv.setAttribute("title",
-                    "<a href='https://classic.wowhead.com/item=" + itemID + "'><img src='https://items.classicmaps.xyz/" + itemID + ".png'></img></a>"
+                    "<img src='https://items.classicmaps.xyz/" + itemID + ".png'></img></a>"
                 )
 
 
@@ -260,7 +260,12 @@ function populateDungeons(data) {
                     newDiv.style.color = "#8c02cd";
                 }
                 newDiv.style.textAlign = 'center';
-                sourceDiv.appendChild(newDiv);
+
+                let newDivWrap = document.createElement("a");
+                newDivWrap.setAttribute("href", 'https://classic.wowhead.com/item=' + itemID);
+
+                newDivWrap.appendChild(newDiv);
+                sourceDiv.appendChild(newDivWrap);
             }
 
 
