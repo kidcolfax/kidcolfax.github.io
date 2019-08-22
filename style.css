@@ -117,6 +117,7 @@ body {
 
 #chooseClassText {
     color: white;
+    margin-top: 2em;
     font-size: 2em;
     font-weight: bold;
     letter-spacing: .25em;
@@ -134,7 +135,7 @@ body {
     width: 5em;
     height: 5em;
     display: inline-block;
-    margin: .4em;
+    margin: 1.5em;
     cursor: pointer;
 }
 
@@ -143,7 +144,7 @@ body {
 }
 
 .classLogo:hover {
-    transform: scale(1.35);
+    transform: scale(1.5);
 }
 
 #twitchLogo {
@@ -153,7 +154,7 @@ body {
 
 #twitchLogo:hover {
     -webkit-box-shadow: 0 0 20px #6441a5;
-    -moz-box-shadow: 0 0 20px #6441a5;
+    -moz-box-shadow: 0 0 20x #6441a5;
     box-shadow: 0 0 20px #6441a5;
 }
 

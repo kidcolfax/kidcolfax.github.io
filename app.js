@@ -26,7 +26,6 @@ function hunterLoad() {
         data = JSON.parse(ourRequest.responseText);
         // console.log(data.length)
         populateDungeons(data);
-        console.log(data)
         $('#accordionExample').css('border', 'solid 20px #ABD473');
         $('#accordionExample').show();
 
@@ -47,7 +46,6 @@ function mageLoad() {
         data = JSON.parse(ourRequest.responseText);
         // console.log(data.length)
         populateDungeons(data);
-        console.log(data)
         $('#accordionExample').css('border', 'solid 20px #69CCF0');
         $('#accordionExample').show();
 
