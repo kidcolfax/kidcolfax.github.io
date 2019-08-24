@@ -9,8 +9,27 @@ body {
 
 #socialBox {
     color: white;
-    font-size: 1em;
+    font-size: 2em;
     text-align: center;
+    margin-top: -1em;
+    text-decoration: none;
+}
+
+#twitch {
+    margin-right: 30px;
+    text-decoration: none;
+}
+
+#twitter {
+    text-decoration: none;
+}
+
+.fa-twitch {
+    color: #6441a5;
+}
+
+.fa-twitter {
+    color: #1DA1F2;
 }
 
 #accordionExample {
@@ -36,7 +55,7 @@ body {
     letter-spacing: .25em;
     text-align: center;
     color: white;
-    /* margin-bottom: 1em; */
+    margin-top: 1em;
     font-family: 'Roboto', sans-serif;
 }
 
