@@ -7,13 +7,19 @@ body {
     max-width: 100%;
 }
 
+#socialBox {
+    color: white;
+    font-size: 1em;
+    text-align: center;
+}
+
 #accordionExample {
     width: 60vw;
     margin-left: 20vw;
-    border: 20px solid white;
+    border: 30px solid white;
     border-radius: 10px;
     position: absolute;
-    /* margin-top: 30vh; */
+    margin-top: 1em;
     margin-bottom: 5em;
     display: none;
 }
@@ -37,7 +43,7 @@ body {
 .card-header {
     background-color: white !important;
     padding: 0;
-    /* font-weight: bold; */
+    font-weight: bold;
     text-align: center;
     border: 3px solid black;
 }
@@ -60,14 +66,14 @@ body {
     /* border-radius: 10px; */
     /* padding: 10px; */
     color: black;
-    background: #f1f1f1;
+    background: #d3d3d3;
     text-align: center;
     padding: 5px;
 }
 
 .sourceTitle {
     /* font-weight: bold; */
-    background-color: lightgray;
+    background-color: #f1f1f1;
     padding: 5px;
     border: 1px solid black;
 }
@@ -136,27 +142,14 @@ body {
     width: 5em;
     height: 5em;
     display: inline-block;
-    margin: 1.5em;
+    margin: .75em;
     cursor: pointer;
-}
-
-.classLogo {
     transition: all .05s ease-in-out;
 }
 
 .classLogo:hover {
     transform: scale(1.5);
-}
-
-#twitchLogo {
-    background-image: url(./images/druid.png);
-    background-size: contain;
-}
-
-#twitchLogo:hover {
-    -webkit-box-shadow: 0 0 20px #6441a5;
-    -moz-box-shadow: 0 0 20x #6441a5;
-    box-shadow: 0 0 20px #6441a5;
+    /* border: 3px solid white; */
 }
 
 #druidLogo {
@@ -165,9 +158,9 @@ body {
 }
 
 #druidLogo:hover {
-    -webkit-box-shadow: 0 0 20px #FF7D0A;
-    -moz-box-shadow: 0 0 20px #FF7D0A;
-    box-shadow: 0 0 20px #FF7D0A;
+    -webkit-box-shadow: 0 0 30px #FF7D0A;
+    -moz-box-shadow: 0 0 30px #FF7D0A;
+    box-shadow: 0 0 30px #FF7D0A;
 }
 
 #hunterLogo {
@@ -176,9 +169,9 @@ body {
 }
 
 #hunterLogo:hover {
-    -webkit-box-shadow: 0 0 20px #ABD473;
-    -moz-box-shadow: 0 0 20px #ABD473;
-    box-shadow: 0 0 20px #ABD473;
+    -webkit-box-shadow: 0 0 30px #ABD473;
+    -moz-box-shadow: 0 0 30px #ABD473;
+    box-shadow: 0 0 30px #ABD473;
 }
 
 #mageLogo {
@@ -187,9 +180,9 @@ body {
 }
 
 #mageLogo:hover {
-    -webkit-box-shadow: 0 0 20px #69CCF0;
-    -moz-box-shadow: 0 0 20px #69CCF0;
-    box-shadow: 0 0 20px #69CCF0;
+    -webkit-box-shadow: 0 0 30px #69CCF0;
+    -moz-box-shadow: 0 0 30px #69CCF0;
+    box-shadow: 0 0 30px #69CCF0;
 }
 
 #paladinLogo {
@@ -198,9 +191,9 @@ body {
 }
 
 #paladinLogo:hover {
-    -webkit-box-shadow: 0 0 20px #F58CBA;
-    -moz-box-shadow: 0 0 20px #F58CBA;
-    box-shadow: 0 0 20px #F58CBA;
+    -webkit-box-shadow: 0 0 30px #F58CBA;
+    -moz-box-shadow: 0 0 30px #F58CBA;
+    box-shadow: 0 0 30px #F58CBA;
 }
 
 #priestLogo {
@@ -209,9 +202,9 @@ body {
 }
 
 #priestLogo:hover {
-    -webkit-box-shadow: 0 0 20px #FFFFFF;
-    -moz-box-shadow: 0 0 20px #FFFFFF;
-    box-shadow: 0 0 20px #FFFFFF;
+    -webkit-box-shadow: 0 0 30px #FFFFFF;
+    -moz-box-shadow: 0 0 30px #FFFFFF;
+    box-shadow: 0 0 30px #FFFFFF;
 }
 
 #rogueLogo {
@@ -220,9 +213,9 @@ body {
 }
 
 #rogueLogo:hover {
-    -webkit-box-shadow: 0 0 20px #FFF569;
-    -moz-box-shadow: 0 0 20px #FFF569;
-    box-shadow: 0 0 20px #FFF569;
+    -webkit-box-shadow: 0 0 30px #FFF569;
+    -moz-box-shadow: 0 0 30px #FFF569;
+    box-shadow: 0 0 30px #FFF569;
 }
 
 #shamanLogo {
@@ -231,9 +224,9 @@ body {
 }
 
 #shamanLogo:hover {
-    -webkit-box-shadow: 0 0 20px #F58CBA;
-    -moz-box-shadow: 0 0 20px #F58CBA;
-    box-shadow: 0 0 20px #F58CBA;
+    -webkit-box-shadow: 0 0 30px #F58CBA;
+    -moz-box-shadow: 0 0 30px #F58CBA;
+    box-shadow: 0 0 30px #F58CBA;
 }
 
 #warlockLogo {
@@ -242,9 +235,9 @@ body {
 }
 
 #warlockLogo:hover {
-    -webkit-box-shadow: 0 0 20px #9482C9;
-    -moz-box-shadow: 0 0 20px#9482C9;
-    box-shadow: 0 0 20px #9482C9;
+    -webkit-box-shadow: 0 0 30px #9482C9;
+    -moz-box-shadow: 0 0 30px#9482C9;
+    box-shadow: 0 0 30px #9482C9;
 }
 
 #warriorLogo {
@@ -253,21 +246,24 @@ body {
 }
 
 #warriorLogo:hover {
-    -webkit-box-shadow: 0 0 20px #C79C6E;
-    -moz-box-shadow: 0 0 20px#C79C6E;
-    box-shadow: 0 0 20px #C79C6E;
+    -webkit-box-shadow: 0 0 30px #C79C6E;
+    -moz-box-shadow: 0 0 30px#C79C6E;
+    box-shadow: 0 0 30px #C79C6E;
 }
 
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+@media only screen and (min-device-width: 330px) and (max-device-width: 480px) {
     .classLogo {
         min-width: 200px;
         min-height: 200px;
+        /* margin: 1.2em; */
     }
     #chooseClassText {
         font-size: 4em;
+        margin-top: 0;
     }
     .classLogo:hover {
         transform: scale(1.2);
+        /* border: 6px solid white; */
     }
     #newsBox {
         font-size: 2em;
@@ -283,5 +279,64 @@ body {
         font-size: 2em;
         width: 90%;
         margin-left: 5%;
+    }
+    .sourceHeader {
+        font-size: 1em !important;
+        padding: 30px;
+    }
+    #newsTitle {
+        margin-top: 0;
+    }
+    #logoBreak {
+        display: none;
+    }
+    #classBar {
+        width: 90vw;
+        margin-left: 5vw;
+    }
+    #druidLogo:hover {
+        -webkit-box-shadow: 0 0 100px #FF7D0A;
+        -moz-box-shadow: 0 0 100px #FF7D0A;
+        box-shadow: 0 0 100px #FF7D0A;
+    }
+    #hunterLogo:hover {
+        -webkit-box-shadow: 0 0 100px #ABD473;
+        -moz-box-shadow: 0 0 100px #ABD473;
+        box-shadow: 0 0 100px #ABD473;
+    }
+    #mageLogo:hover {
+        -webkit-box-shadow: 0 0 100px #69CCF0;
+        -moz-box-shadow: 0 0 100px #69CCF0;
+        box-shadow: 0 0 100px #69CCF0;
+    }
+    #paladinLogo:hover {
+        -webkit-box-shadow: 0 0 100px #F58CBA;
+        -moz-box-shadow: 0 0 100px #F58CBA;
+        box-shadow: 0 0 100px #F58CBA;
+    }
+    #priestLogo:hover {
+        -webkit-box-shadow: 0 0 100px #FFFFFF;
+        -moz-box-shadow: 0 0 100px #FFFFFF;
+        box-shadow: 0 0 100px #FFFFFF;
+    }
+    #rogueLogo:hover {
+        -webkit-box-shadow: 0 0 100px #FFF569;
+        -moz-box-shadow: 0 0 100px #FFF569;
+        box-shadow: 0 0 100px #FFF569;
+    }
+    #shamanLogo:hover {
+        -webkit-box-shadow: 0 0 100px #F58CBA;
+        -moz-box-shadow: 0 0 100px #F58CBA;
+        box-shadow: 0 0 100px #F58CBA;
+    }
+    #warlockLogo:hover {
+        -webkit-box-shadow: 0 0 100px #9482C9;
+        -moz-box-shadow: 0 0 100px#9482C9;
+        box-shadow: 0 0 100px #9482C9;
+    }
+    #warriorLogo:hover {
+        -webkit-box-shadow: 0 0 100px #C79C6E;
+        -moz-box-shadow: 0 0 100px#C79C6E;
+        box-shadow: 0 0 100px #C79C6E;
     }
 }

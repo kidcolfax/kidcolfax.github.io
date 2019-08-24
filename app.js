@@ -1,4 +1,5 @@
 function druidLoad() {
+    $('#accordionExample').css('border', 'solid 20px #FF7D0A');
     let data;
     var ourRequest = new XMLHttpRequest();
     ourRequest.open("GET", "druid.json");
@@ -6,7 +7,6 @@ function druidLoad() {
         data = JSON.parse(ourRequest.responseText);
         // console.log(data.length)
         populateDungeons(data);
-        $('#accordionExample').css('border', 'solid 20px #FF7D0A');
         $('#accordionExample').show();
 
     };
@@ -19,6 +19,7 @@ function druidLoad() {
 }
 
 function hunterLoad() {
+    $('#accordionExample').css('border', 'solid 20px #ABD473');
     let data;
     var ourRequest = new XMLHttpRequest();
     ourRequest.open("GET", "hunter.json");
@@ -26,7 +27,6 @@ function hunterLoad() {
         data = JSON.parse(ourRequest.responseText);
         // console.log(data.length)
         populateDungeons(data);
-        $('#accordionExample').css('border', 'solid 20px #ABD473');
         $('#accordionExample').show();
 
     };
@@ -39,6 +39,7 @@ function hunterLoad() {
 }
 
 function mageLoad() {
+    $('#accordionExample').css('border', 'solid 20px #69CCF0');
     let data;
     var ourRequest = new XMLHttpRequest();
     ourRequest.open("GET", "mage.json");
@@ -46,7 +47,6 @@ function mageLoad() {
         data = JSON.parse(ourRequest.responseText);
         // console.log(data.length)
         populateDungeons(data);
-        $('#accordionExample').css('border', 'solid 20px #69CCF0');
         $('#accordionExample').show();
 
     };
@@ -59,6 +59,7 @@ function mageLoad() {
 }
 
 function paladinLoad() {
+    $('#accordionExample').css('border', 'solid 20px #F58CBA');
     let data;
     var ourRequest = new XMLHttpRequest();
     ourRequest.open("GET", "paladin.json");
@@ -66,7 +67,6 @@ function paladinLoad() {
         data = JSON.parse(ourRequest.responseText);
         // console.log(data.length)
         populateDungeons(data);
-        $('#accordionExample').css('border', 'solid 20px #F58CBA');
         $('#accordionExample').show();
 
     };
@@ -79,6 +79,7 @@ function paladinLoad() {
 }
 
 function priestLoad() {
+    $('#accordionExample').css('border', 'solid 20px lightgray');
     let data;
     var ourRequest = new XMLHttpRequest();
     ourRequest.open("GET", "priest.json");
@@ -86,7 +87,6 @@ function priestLoad() {
         data = JSON.parse(ourRequest.responseText);
         // console.log(data.length)
         populateDungeons(data);
-        $('#accordionExample').css('border', 'solid 20px lightgray');
         $('#accordionExample').show();
 
     };
@@ -99,6 +99,7 @@ function priestLoad() {
 }
 
 function rogueLoad() {
+    $('#accordionExample').css('border', 'solid 20px #FFF569');
     let data;
     var ourRequest = new XMLHttpRequest();
     ourRequest.open("GET", "rogue.json");
@@ -106,7 +107,6 @@ function rogueLoad() {
         data = JSON.parse(ourRequest.responseText);
         // console.log(data.length)
         populateDungeons(data);
-        $('#accordionExample').css('border', 'solid 20px #FFF569');
         $('#accordionExample').show();
 
     };
@@ -121,6 +121,7 @@ function rogueLoad() {
 
 
 function shamanLoad() {
+    $('#accordionExample').css('border', 'solid 20px #F58CBA');
     let data;
     var ourRequest = new XMLHttpRequest();
     ourRequest.open("GET", "shaman.json");
@@ -128,7 +129,6 @@ function shamanLoad() {
         data = JSON.parse(ourRequest.responseText);
         // console.log(data.length)
         populateDungeons(data);
-        $('#accordionExample').css('border', 'solid 20px #F58CBA');
         $('#accordionExample').show();
 
     };
@@ -143,6 +143,7 @@ function shamanLoad() {
 
 
 function warlockLoad() {
+    $('#accordionExample').css('border', 'solid 20px #9482C9');
     let data;
     var ourRequest = new XMLHttpRequest();
     ourRequest.open("GET", "warlock.json");
@@ -150,7 +151,6 @@ function warlockLoad() {
         data = JSON.parse(ourRequest.responseText);
         // console.log(data.length)
         populateDungeons(data);
-        $('#accordionExample').css('border', 'solid 20px #9482C9');
         $('#accordionExample').show();
 
     };
@@ -163,6 +163,7 @@ function warlockLoad() {
 }
 
 function warriorLoad() {
+    $('#accordionExample').css('border', 'solid 20px #C79C6E');
     let data;
     var ourRequest = new XMLHttpRequest();
     ourRequest.open("GET", "warrior.json");
@@ -170,7 +171,6 @@ function warriorLoad() {
         data = JSON.parse(ourRequest.responseText);
         // console.log(data.length)
         populateDungeons(data);
-        $('#accordionExample').css('border', 'solid 20px #C79C6E');
         $('#accordionExample').show();
 
     };
@@ -196,6 +196,7 @@ function populateDungeons(data) {
         h2.classList += 'mb-0';
         let button = document.createElement('button');
         button.classList += 'btn btn-link';
+        button.classList += ' sourceHeader';
         button.style.width = "100%";
         button.style.height = "100%";
         button.style.textDecoration = "none";
@@ -233,10 +234,10 @@ function populateDungeons(data) {
 
             for (let j = 0; j < data[i].sourceList[index].itemList.length; j++) {
                 let newDiv = document.createElement("div");
+                newDiv.style.fontWeight = '600'
                 newDiv.setAttribute("data-toggle", "tooltip");
                 newDiv.setAttribute("data-placement", "top");
                 newDiv.setAttribute("data-html", "true");
-
                 let itemID = data[i].sourceList[index].itemList[j].itemID;
 
 
@@ -249,7 +250,7 @@ function populateDungeons(data) {
                 newDiv.innerText += data[i].sourceList[index].itemList[j].itemName;
                 newDiv.style.cursor = 'pointer';
                 if (data[i].sourceList[index].itemList[j].class === "wowgreen") {
-                    newDiv.style.color = "#26c426";
+                    newDiv.style.color = "#1E9D25";
                 }
                 if (data[i].sourceList[index].itemList[j].class === "wowblue") {
                     newDiv.style.color = "#2d2de1";
