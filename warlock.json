@@ -438,7 +438,7 @@
                 }]
             },
             {
-                "sourceName": "Quest (34): ;;;<a href=\"https://classic.wowhead.com/quest=1102\" class=\"wowblue\" target=\"_blank\">Horde: A Vengeful Fate</a>\n\n\t\t\t ;;;<a href=\"https://classic.wowhead.com/quest=1101\" class=\"wowblue\" target=\"_blank\">Alliance: The Crone of the Kraul</a>",
+                "sourceName": "Quest (34): <a href=\"https://classic.wowhead.com/quest=1102\" class=\"wowblue\" target=\"_blank\">Horde: A Vengeful Fate</a>\n\n\t\t\t <a href=\"https://classic.wowhead.com/quest=1101\" class=\"wowblue\" target=\"_blank\">Alliance: The Crone of the Kraul</a>",
                 "itemList": [{
                     "itemName": "Berylline Pads - Cloth: Shoulders",
                     "itemID": "?witem=4197",
@@ -524,7 +524,7 @@
                 }]
             },
             {
-                "sourceName": "Quest (35): ;;;<a href=\"https://classic.wowhead.com/quest=2841\" class=\"wowblue\" target=\"_blank\">Horde: Rig Wars</a>\n\n\t\t\t ;;;<a href=\"https://classic.wowhead.com/quest=2929\" class=\"wowblue\" target=\"_blank\">Alliance: The Grand Betrayal</a>",
+                "sourceName": "Quest (35): <a href=\"https://classic.wowhead.com/quest=2841\" class=\"wowblue\" target=\"_blank\">Horde: Rig Wars</a>\n\n\t\t\t <a href=\"https://classic.wowhead.com/quest=2929\" class=\"wowblue\" target=\"_blank\">Alliance: The Grand Betrayal</a>",
                 "itemList": [{
                     "itemName": "Civinad Robes - Cloth: Chest",
                     "itemID": "?witem=9623",
@@ -749,7 +749,7 @@
                 }]
             },
             {
-                "sourceName": "Quest (42): ;;;<a href=\"https://classic.wowhead.com/quest=3341\" class=\"wowblue\" target=\"_blank\">Horde: Bring the End</a>\n\t\t\t ;;;<a href=\"https://classic.wowhead.com/quest=3636\" class=\"wowblue\" target=\"_blank\">Alliance: Bring the Light</a>",
+                "sourceName": "Quest (42): <a href=\"https://classic.wowhead.com/quest=3341\" class=\"wowblue\" target=\"_blank\">Horde: Bring the End</a>\n\t\t\t <a href=\"https://classic.wowhead.com/quest=3636\" class=\"wowblue\" target=\"_blank\">Alliance: Bring the Light</a>",
                 "itemList": [{
                     "itemName": "Amberglow Talisman - Miscellaneous: Neck",
                     "itemID": "?witem=10824",

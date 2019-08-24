@@ -544,7 +544,7 @@
                 ]
             },
             {
-                "sourceName": "Quest (35): ;;;<a href=\"https://classic.wowhead.com/quest=2841\" class=\"wowblue\" target=\"_blank\">Horde: Rig Wars</a>\n\t\t\t ;;;<a href=\"https://classic.wowhead.com/quest=2929\" class=\"wowblue\" target=\"_blank\">Alliance: The Grand Betrayal</a>",
+                "sourceName": "Quest (35): <a href=\"https://classic.wowhead.com/quest=2841\" class=\"wowblue\" target=\"_blank\">Horde: Rig Wars</a>\n\t\t\t <a href=\"https://classic.wowhead.com/quest=2929\" class=\"wowblue\" target=\"_blank\">Alliance: The Grand Betrayal</a>",
                 "itemList": [{
                     "itemName": "Triprunner Dungarees - Leather: Legs",
                     "itemID": "?witem=9624",
@@ -761,7 +761,7 @@
                 }]
             },
             {
-                "sourceName": "Quest (42): ;;;<a href=\"https://classic.wowhead.com/quest=3341\" class=\"wowblue\" target=\"_blank\">Horde: Bring the End</a>\n\t\t\t ;;;<a href=\"https://classic.wowhead.com/quest=3636\" class=\"wowblue\" target=\"_blank\">Alliance: Bring the Light</a>",
+                "sourceName": "Quest (42): <a href=\"https://classic.wowhead.com/quest=3341\" class=\"wowblue\" target=\"_blank\">Horde: Bring the End</a>\n\t\t\t <a href=\"https://classic.wowhead.com/quest=3636\" class=\"wowblue\" target=\"_blank\">Alliance: Bring the Light</a>",
                 "itemList": [{
                     "itemName": "Amberglow Talisman - Miscellaneous: Neck",
                     "itemID": "?witem=10824",
@@ -1107,7 +1107,7 @@
                 ]
             },
             {
-                "sourceName": "Quest (50): ;;;<a href=\"https://classic.wowhead.com/quest=1445\" class=\"wowgreen\" target=\"_blank\">Horde: The Temple of Atal'Hakkar</a>\n\n\t\t\t ;;;<a href=\"https://classic.wowhead.com/quest=1475\" class=\"wowgreen\" target=\"_blank\">Alliance: Into The Temple of Atal'Hakkar</a>",
+                "sourceName": "Quest (50): <a href=\"https://classic.wowhead.com/quest=1445\" class=\"wowgreen\" target=\"_blank\">Horde: The Temple of Atal'Hakkar</a>\n\n\t\t\t <a href=\"https://classic.wowhead.com/quest=1475\" class=\"wowgreen\" target=\"_blank\">Alliance: Into The Temple of Atal'Hakkar</a>",
                 "itemList": [{
                     "itemName": "Guardian Talisman - Miscellaneous: Trinket",
                     "itemID": "?witem=1490",

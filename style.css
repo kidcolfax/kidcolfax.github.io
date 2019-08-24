@@ -12,16 +12,19 @@ body {
     font-size: 2em;
     text-align: center;
     margin-top: -1em;
-    text-decoration: none;
 }
 
 #twitch {
     margin-right: 30px;
-    text-decoration: none;
+    color: white;
 }
 
 #twitter {
-    text-decoration: none;
+    color: white;
+}
+
+a:link {
+    text-decoration: none!important;
 }
 
 .fa-twitch {
@@ -136,9 +139,10 @@ body {
     padding: 15px;
     margin: 0 0 1em 0;
     margin-left: 20vw;
-    -webkit-box-shadow: 0 0 100px #ffcc00;
-    -moz-box-shadow: 0 0 100px #ffcc00;
-    box-shadow: 0 0 100px #ffcc00;
+    -webkit-box-shadow: 0 0 50px #ffcc00;
+    -moz-box-shadow: 0 0 50px #ffcc00;
+    box-shadow: 0 0 50px #ffcc00;
+    border: 2px solid #ffcc00;
 }
 
 #chooseClassText {
