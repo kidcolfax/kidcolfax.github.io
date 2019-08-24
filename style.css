@@ -1,3 +1,7 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
 body {
     background-color: black !important;
 }
@@ -296,7 +300,6 @@ a:link {
     }
     #newsTitle {
         font-size: 4em;
-        margin-top: 10%;
     }
     #accordionExample {
         font-size: 2em;
@@ -306,9 +309,6 @@ a:link {
     .sourceHeader {
         font-size: 1em !important;
         padding: 30px;
-    }
-    #newsTitle {
-        margin-top: 0;
     }
     #logoBreak {
         display: none;
