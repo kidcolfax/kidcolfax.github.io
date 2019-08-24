@@ -8,6 +8,8 @@ function druidLoad() {
         // console.log(data.length)
         populateDungeons(data);
         $('#accordionExample').show();
+        $('#newsTitle').hide();
+        $('#newsBox').hide();
 
     };
 
@@ -28,6 +30,8 @@ function hunterLoad() {
         // console.log(data.length)
         populateDungeons(data);
         $('#accordionExample').show();
+        $('#newsTitle').hide();
+        $('#newsBox').hide();
 
     };
 
@@ -48,6 +52,8 @@ function mageLoad() {
         // console.log(data.length)
         populateDungeons(data);
         $('#accordionExample').show();
+        $('#newsTitle').hide();
+        $('#newsBox').hide();
 
     };
 
@@ -68,6 +74,8 @@ function paladinLoad() {
         // console.log(data.length)
         populateDungeons(data);
         $('#accordionExample').show();
+        $('#newsTitle').hide();
+        $('#newsBox').hide();
 
     };
 
@@ -88,6 +96,8 @@ function priestLoad() {
         // console.log(data.length)
         populateDungeons(data);
         $('#accordionExample').show();
+        $('#newsTitle').hide();
+        $('#newsBox').hide();
 
     };
 
@@ -108,6 +118,8 @@ function rogueLoad() {
         // console.log(data.length)
         populateDungeons(data);
         $('#accordionExample').show();
+        $('#newsTitle').hide();
+        $('#newsBox').hide();
 
     };
 
@@ -130,6 +142,8 @@ function shamanLoad() {
         // console.log(data.length)
         populateDungeons(data);
         $('#accordionExample').show();
+        $('#newsTitle').hide();
+        $('#newsBox').hide();
 
     };
 
@@ -152,6 +166,8 @@ function warlockLoad() {
         // console.log(data.length)
         populateDungeons(data);
         $('#accordionExample').show();
+        $('#newsTitle').hide();
+        $('#newsBox').hide();
 
     };
 
@@ -172,6 +188,8 @@ function warriorLoad() {
         // console.log(data.length)
         populateDungeons(data);
         $('#accordionExample').show();
+        $('#newsTitle').hide();
+        $('#newsBox').hide();
 
     };
 
@@ -263,7 +281,6 @@ function populateDungeons(data) {
 
 
                 var isTouch = ('ontouchstart' in window);
-                console.log(isTouch);
                 let newDivWrap = document.createElement("a");
                 if (isTouch === false) {
                     newDivWrap.setAttribute("href", 'https://classic.wowhead.com/item=' + itemID);
@@ -285,6 +302,8 @@ function populateDungeons(data) {
         document.getElementById('accordionExample').appendChild(card);
     }
 }
+
+
 
 
 
