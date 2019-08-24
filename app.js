@@ -242,6 +242,7 @@ function populateDungeons(data) {
 
 
                 itemID = itemID.substring(itemID.indexOf("=") + 1);
+
                 newDiv.setAttribute("title",
                     "<img src='https://items.classicmaps.xyz/" + itemID + ".png'></img></a>"
                 )
