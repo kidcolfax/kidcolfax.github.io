@@ -15,9 +15,6 @@ function druidLoad() {
 
     ourRequest.send();
 
-    $(function() {
-        $('[data-toggle="tooltip"]').tooltip();
-    });
 }
 
 function hunterLoad() {
@@ -37,9 +34,7 @@ function hunterLoad() {
 
     ourRequest.send();
 
-    $(function() {
-        $('[data-toggle="tooltip"]').tooltip();
-    });
+
 }
 
 function mageLoad() {
@@ -59,9 +54,7 @@ function mageLoad() {
 
     ourRequest.send();
 
-    $(function() {
-        $('[data-toggle="tooltip"]').tooltip();
-    });
+
 }
 
 function paladinLoad() {
@@ -81,9 +74,6 @@ function paladinLoad() {
 
     ourRequest.send();
 
-    $(function() {
-        $('[data-toggle="tooltip"]').tooltip();
-    });
 }
 
 function priestLoad() {
@@ -103,9 +93,7 @@ function priestLoad() {
 
     ourRequest.send();
 
-    $(function() {
-        $('[data-toggle="tooltip"]').tooltip();
-    });
+
 }
 
 function rogueLoad() {
@@ -125,9 +113,6 @@ function rogueLoad() {
 
     ourRequest.send();
 
-    $(function() {
-        $('[data-toggle="tooltip"]').tooltip();
-    });
 }
 
 
@@ -149,9 +134,6 @@ function shamanLoad() {
 
     ourRequest.send();
 
-    $(function() {
-        $('[data-toggle="tooltip"]').tooltip();
-    });
 }
 
 
@@ -173,9 +155,7 @@ function warlockLoad() {
 
     ourRequest.send();
 
-    $(function() {
-        $('[data-toggle="tooltip"]').tooltip();
-    });
+
 }
 
 function warriorLoad() {
@@ -195,10 +175,14 @@ function warriorLoad() {
 
     ourRequest.send();
 
-    $(function() {
-        $('[data-toggle="tooltip"]').tooltip();
-    });
 }
+
+
+$(function() {
+    $('[data-toggle="tooltip"]').tooltip();
+});
+
+
 
 function populateDungeons(data) {
     //POPULATES THE LIST OF DUNGEONS
@@ -254,7 +238,7 @@ function populateDungeons(data) {
                 let newDiv = document.createElement("div");
                 newDiv.style.fontWeight = '600'
                 newDiv.setAttribute("data-toggle", "tooltip");
-                newDiv.setAttribute("data-placement", "top");
+                newDiv.setAttribute("data-placement", "bottom");
                 newDiv.setAttribute("data-html", "true");
                 let itemID = data[i].sourceList[index].itemList[j].itemID;
 
@@ -268,6 +252,7 @@ function populateDungeons(data) {
 
                 newDiv.innerText += data[i].sourceList[index].itemList[j].itemName;
                 newDiv.style.cursor = 'pointer';
+
                 if (data[i].sourceList[index].itemList[j].class === "wowgreen") {
                     newDiv.style.color = "#1E9D25";
                 }
